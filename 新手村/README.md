@@ -25,16 +25,16 @@
 　　　　　[中国矿业大学(北京)VPN服务](https://vpn.cumtb.edu.cn)  
 　　　　　[谷歌搜索](https://www.google.com.hk/webhp?hl=zh-CN&gl=cn)  
 　　　　　[必应搜索](https://www.bing.com/)  
-         [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
-         [你缺失的那门计算机课](https://www.criwits.top/missing/)  
-         [CS自学指南](https://csdiy.wiki)  
-         [AI自学指南](https://github.com/Discrete-Mathematics/ai-self-learning)  
+　　　　　[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
+　　　　　[你缺失的那门计算机课](https://www.criwits.top/missing/)  
+　　　　　[CS自学指南](https://csdiy.wiki)  
+　　　　　[AI自学指南](https://github.com/Discrete-Mathematics/ai-self-learning)  
 　　　　　[菜鸟教程](https://www.runoob.com/)  
 　　　　　[ChatGPT](https://chatgpt.com/)  
 　　　　　[中文维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)  
 　　　　　[Zlibrary](https://zh.1lib.sk/)  
 　　　　　[StackOverFlow](https://stackoverflow.com/)  
-         [实用工具箱](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/tools/)
+     　　[实用工具箱](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/tools/)
 # *6.LaTex*
 1.主要内容：Overleaf的使用、标题、正文、章节、目录、图片、表格、列表、定理环境、页面、页码、数学公式  
 
