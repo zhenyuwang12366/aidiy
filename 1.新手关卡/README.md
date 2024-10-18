@@ -61,4 +61,4 @@
 ![Cache_-3ff05c59e5daac7c](https://github.com/user-attachments/assets/cdaf58fd-d8bc-4d3e-a26f-cf8262cc9884)  
 
 ![Cache_-18abe480b85e89d9](https://github.com/user-attachments/assets/de946e0e-9bc1-4534-b181-84092044d54f)  
-# 恭喜你，你已完成新手教程的全部主线任务，下面可以开始选做理论篇、编程篇、应用篇、项目篇的主线任务了！
+# 恭喜你，你已通关新手关卡的全部主线任务，下面可以开始选做理论篇、编程篇、应用篇、项目篇的主线任务了！
