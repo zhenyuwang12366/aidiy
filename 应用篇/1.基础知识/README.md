@@ -31,18 +31,25 @@
 # 5.Python基础语法
 1.前置知识：Anaconda
 
-2.主要内容：VSCode的使用/Pycharm社区版的使用/*Pycharm专业版的破解与使用*（三选一）、注释、变量类型、运算符、条件语句、循环语句、字符串、列表，元组、字典、函数、文件操作、异常、面向对象
+2.主要内容：VSCode的使用/Pycharm社区版的使用/*Pycharm专业版的破解与使用*（三选一）、Python文件与项目的创建、注释、数据类型、运算符、条件语句、循环语句、字符串、列表，元组、字典、函数、文件操作、异常、面向对象
 
 3.推荐资料：[Python 基础教程](https://www.runoob.com/python/python-object.html)  
 　　　　　　[（2021最新菜鸟教程）从计算机构成开始讲的Python基础语法，我家楼下保安都学会了！（附带课件源码）](https://www.bilibili.com/video/BV1Y64y1r7Pu/?spm_id_from=333.999.0.0)   
 　　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)
-# *6.PowerShell*
-1.前置知识：CMD、至少一门编程语言（如Python）
+# 6.JSON
+1.前置知识：至少一门编程语言
+
+2.主要内容：数据类型、用JSON表示树形结构的数据
+
+3.推荐资料：[Json 详解，5分钟学会](https://www.bilibili.com/video/BV1We411y7wn/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)  
+　　　　　　[带你快速了解Json以及Json的用法](https://www.bilibili.com/video/BV1954y1p7s6/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)
+# *7.PowerShell*
+1.前置知识：CMD、至少一门编程语言
 
 2.主要内容：PowerShell的打开、快捷键、查看帮助、切换磁盘、目录操作、文件操作、环境变量、变量、脚本的调用、数学运算符、条件语句、循环语句、数组、函数、定义文本、字符串
 
 3.推荐资料：[PowerShell入门教程 语法、环境](https://zhuanlan.zhihu.com/p/353196872)
-# *7.Git*
+# *8.Git*
 1.前置知识：GitHub
 
 2.主要内容：Git的安装、克隆仓库、创建新分支、工作目录、暂存文件、提交更改、拉取最新更改、推送更改、创建 Pull Request、合并更改、删除分支
