@@ -25,17 +25,17 @@
 　　　　　　[Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
 
 # 4.NumPy
-1.前置知识：Python基础语法、*线性代数*
+1.前置知识：Python基础语法、*理论篇-1.基础知识-2.线性代数*
 
 2.主要内容：NumPy的安装、NumPy数组、切片、索引、广播、数组操作、数学函数、数组的算术函数、统计函数、排序方法、条件筛选函数、矩阵库、*线性代数函数库*
 
-3.推荐资料：[NumPy 教程](https://www.runoob.com/numpy/numpy-tutorial.html)（教程）  
-　　　　　　[【Python】NumPy入门教程，例子+图解](https://www.bilibili.com/video/BV1yq4y137w7/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
+3.推荐资料：[【Python】NumPy入门教程，例子+图解](https://www.bilibili.com/video/BV1yq4y137w7/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
 　　　　　　[【python教程】数据分析——numpy、pandas、matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
-　　　　　　[线性代数与Python](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/%E7%BC%96%E7%A8%8B%E7%AF%87/%E8%A1%A5%E5%85%85%E8%B5%84%E6%96%99/python%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md)
+　　　　　　[NumPy 教程](https://www.runoob.com/numpy/numpy-tutorial.html)（教程）  
+　　　　　　[线性代数与Python](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/%E7%BC%96%E7%A8%8B%E7%AF%87/%E8%A1%A5%E5%85%85%E8%B5%84%E6%96%99/python%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.md)（教程）
 
 # 5.Pandas
-1.前置知识：NumPy、*JSON*
+1.前置知识：NumPy、*应用篇-1.基础知识-JSON*
 
 2.主要内容：Pandas的安装、Series、DataFrame、用Pandas处理CSV文件、*用Pandas处理JSON文件*、Pandas常用函数、Pandas相关性分析
 
