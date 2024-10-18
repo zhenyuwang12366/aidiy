@@ -1,3 +1,10 @@
+# 1.个人电脑的日常使用
+1.前置知识：无
+
+2.主要内容：
+
+3.推荐资料：[电子扫盲课—网盘下载压缩文件及解压缩教学](https://www.bilibili.com/video/BV11w4m1y7kA?spm_id_from=333.788.recommend_more_video.-1&vd_source=8f7be58fae99de36e73582d589f00ca1)
+
 # 1.提问的智慧
 推荐资料：[提问的智慧](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%89%8D/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7-%E7%AE%80%E4%B8%AD.md)
 
