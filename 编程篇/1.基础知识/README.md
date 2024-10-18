@@ -16,7 +16,7 @@
 　　　　　　[（2021最新菜鸟教程）从计算机构成开始讲的Python基础语法，我家楼下保安都学会了！（附带课件源码）](https://www.bilibili.com/video/BV1Y64y1r7Pu/?spm_id_from=333.999.0.0)（网课）  
 　　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）
 
-# *3.Jupyter Notebook的使用*
+# *3.Jupyter Notebook*
 1.前置知识：Anaconda的安装/VSCode的安装/Pycharm专业版的安装与*破解*（三选一）
 
 2.主要内容：Jupyter Notebook的安装、notebook的运行、Markdown、单元格、内核
