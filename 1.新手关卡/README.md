@@ -55,6 +55,7 @@
 推荐资料：[提问的智慧](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/1.%E6%96%B0%E6%89%8B%E5%85%B3%E5%8D%A1/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7.md)
 
 省流：（兄啊文章不应该比表情包更省流么
+
 ![Cache_2b5437f8c19966f7](https://github.com/user-attachments/assets/3d463913-2330-4669-9bf4-46066f42ffdc)  
 
 ![Cache_-775cd0a563445843](https://github.com/user-attachments/assets/03289604-dd51-4e38-bfa3-8b34cb8cfd00)
