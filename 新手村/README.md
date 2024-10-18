@@ -1,6 +1,6 @@
 # 1.大学、学习与教育
 推荐资料：[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
-　　　　　[为什么知乎用户数学学得那么超前？](https://www.zhihu.com/question/433633705/answer/1619595925)　
+　　　　　[为什么知乎用户数学学得那么超前？](https://www.zhihu.com/question/433633705/answer/1619595925)  
 　　　　　[学校让人沾染上的 100+ 恶习](https://zhuanlan.zhihu.com/p/559705516)
 # 2.个人电脑的日常使用
 1.主要内容：硬件、软件、文件、文件管理、软件的寻找与安装、基本维护和安全防护、PIN、遇到问题怎么办、快捷键、Office、WPS、浏览器、压缩文件、压缩工具、工具类软件、怎样寻找优质的教程
@@ -27,7 +27,7 @@
 　　　　　[必应搜索](https://www.bing.com/)  
          [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
          [你缺失的那门计算机课](https://www.criwits.top/missing/)  
-         [CS自学指南](https://csdiy.wiki)
+         [CS自学指南](https://csdiy.wiki)  
          [AI自学指南](https://github.com/Discrete-Mathematics/ai-self-learning)  
 　　　　　[菜鸟教程](https://www.runoob.com/)  
 　　　　　[ChatGPT](https://chatgpt.com/)  
