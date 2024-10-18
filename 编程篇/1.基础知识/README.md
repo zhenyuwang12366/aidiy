@@ -32,7 +32,7 @@
 3.推荐资料：[NumPy 教程](https://www.runoob.com/numpy/numpy-tutorial.html)（教程）  
 　　　　　　[【Python】NumPy入门教程，例子+图解](https://www.bilibili.com/video/BV1yq4y137w7/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
 　　　　　　[【python教程】数据分析——numpy、pandas、matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
-　　　　　　[]
+　　　　　　[线性代数与Python]()
 
 # 5.Pandas
 1.前置知识：NumPy、*JSON*
