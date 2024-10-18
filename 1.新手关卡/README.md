@@ -52,7 +52,7 @@
 
 3.说明：完成该支线任务后即可永久解锁全新任务场景——Linux操作系统
 # 9.提问的智慧
-推荐资料：[提问的智慧](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%89%8D/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7-%E7%AE%80%E4%B8%AD.md)
+推荐资料：[提问的智慧](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/1.%E6%96%B0%E6%89%8B%E5%85%B3%E5%8D%A1/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7.md)
 
 ![Cache_2b5437f8c19966f7](https://github.com/user-attachments/assets/3d463913-2330-4669-9bf4-46066f42ffdc)  
 
