@@ -1,4 +1,4 @@
-# 1.大学、生活、学习与教育
+# 1.大学、学习与教育
 推荐资料：[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
 　　　　　[为什么知乎用户数学学得那么超前？](https://www.zhihu.com/question/433633705/answer/1619595925)  
 　　　　　[学校让人沾染上的 100+ 恶习](https://zhuanlan.zhihu.com/p/559705516)
