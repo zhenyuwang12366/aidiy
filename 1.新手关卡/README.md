@@ -3,7 +3,7 @@
 　　　　　[为什么知乎用户数学学得那么超前？](https://www.zhihu.com/question/433633705/answer/1619595925)  
 　　　　　[学校让人沾染上的 100+ 恶习](https://zhuanlan.zhihu.com/p/559705516)
 # 2.个人电脑的日常使用
-主要内容：硬件、软件、文件、文件管理、软件的寻找与安装、基本维护和安全防护、PIN、遇到问题怎么办、快捷键、Office、WPS、浏览器、压缩文件、压缩工具、工具类软件、怎样寻找优质的教程
+主要内容：硬件、软件、文件、文件管理、软件的寻找与安装、基本维护和安全防护、PIN、遇到问题怎么办、快捷键、Office、WPS、浏览器、压缩文件、压缩工具、工具类软件推荐、TreeSize磁盘管理、Everything文件搜索、怎样寻找优质的教程
 
 推荐资料：[电子扫盲课—网盘下载压缩文件及解压缩教学](https://www.bilibili.com/video/BV11w4m1y7kA?spm_id_from=333.788.recommend_more_video.-1&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[电子扫盲课—如何正确下载STEAM等软件？](https://www.bilibili.com/video/BV1yr421F7Cb/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
