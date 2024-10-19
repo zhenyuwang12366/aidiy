@@ -12,12 +12,23 @@
 推荐资料：中国矿业大学《人工智能概论》（教材）  
 　　　　　[面向新手-计算机科学中的100+概念解释](https://www.bilibili.com/video/BV1tp4y1E7aB/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[一文带你搞懂公网、私网、内网、外网的区别](https://blog.csdn.net/easylife206/article/details/134046598)（教程）  
-　　　　　[VPN和翻墙的常见误区、误解](https://www.bilibili.com/video/BV1vz42187Da/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
-# 4.科学上网
+　　　　　[VPN和翻墙的常见误区、误解](https://www.bilibili.com/video/BV1vz42187Da/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频） 
+# 4.人工智能概论
+前置知识：无 
+
+主要内容：了解机器学习、深度学习、神经网络、强化学习、监督学习、无监督学习、计算机视觉、自然语言处理、大模型等基本概念 
+
+推荐资料：中国矿业大学（北京）《人工智能概论》  
+　　　　　[目前人工智能的主要研究方向都有哪些？](https://www.zhihu.com/question/51419290/answer/370162021)  
+　　　　　[浅谈人工智能领域各个方向](https://zhuanlan.zhihu.com/p/128986471)  
+　　　　　[人工智能的3大流派简介：联结主义、符号主义、行为主义](https://zhuanlan.zhihu.com/p/619260232)  
+　　　　　[三张图读懂机器学习：基本概念、五大流派与九种常见算法](https://zhuanlan.zhihu.com/p/26512893)  
+　　　　　必应搜索、谷歌搜索、维基百科
+# 5.科学上网
 1.主要内容：VPN、代理、机场
 
 2.推荐资料：[此链接](https://jegocloud.com/)出现在这里纯属二进制 bit 的随意组合，与本人毫无关系
-# 5.实用网站
+# 6.实用网站
 推荐资料：[中国矿业大学(北京)官网](https://www.cumtb.edu.cn/)  
 　　　　　[中国矿业大学(北京)图书馆电子资源](http://219.242.65.10/lib/Sub.html#!Module/Resource/Type/Classify/Content/00/ColumnId/c92a1e31-fd7b-4a6a-a6b1-a8030ab0dc03/Page/1)  
 　　　　　[中国矿业大学(北京)学生事务管理系统](https://auth.cumtb.edu.cn/authserver/login?service=http%3A%2F%2F118.228.224.200%3A8081%2F)  
@@ -35,23 +46,23 @@
 　　　　　[Zlibrary](https://zh.1lib.sk/)  
 　　　　　[StackOverFlow](https://stackoverflow.com/)  
 　　　　　[实用工具箱](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/tools/)
-# *6.LaTex*
+# *7.LaTex*
 1.主要内容：Overleaf的使用、标题、正文、章节、目录、图片、表格、列表、定理环境、页面、页码、数学公式  
 
 2.推荐资料：[【LaTeX】新手教程：从入门到日常使用](https://zhuanlan.zhihu.com/p/456055339)
-# *7.Markdown*
+# *8.Markdown*
 1.前置知识：*LaTex-数学公式*、*项目篇-1.前端-1.HTML*
 
 2.主要内容：Markdown编辑器的安装、标题、段落、换行、强调、引用、列表、代码、分割线、链接、图片、转义字符、*数学公式*、*内嵌HTML标签*
 
 3.推荐资料：[Markdown教程](https://markdown.com.cn/)
-# *8.Linux*
+# *9.Linux*
 1.主要内容：WSL子系统/Windows、Ubuntu双系统/虚拟机+Ubuntu安装（三选一）、登录、文件与目录管理、用户和用户组管理、磁盘管理、vi/vim、yum命令、apt命令  
 
 2.推荐资料：[Linux 教程](https://www.runoob.com/linux/linux-tutorial.html)
 
 3.说明：完成该支线任务后即可永久解锁全新任务场景——Linux操作系统
-# 9.提问的智慧
+# 10.提问的智慧
 推荐资料：[提问的智慧](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/1.%E6%96%B0%E6%89%8B%E5%85%B3%E5%8D%A1/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7.md)
 
 省流：（兄啊文章不应该比表情包更省流么
