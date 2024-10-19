@@ -31,7 +31,7 @@
 推荐资料：[贝叶斯网络](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.1%20Bayes%20Network/5.1%20Bayes%20Network.md#24-%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BD%91%E7%BB%9C)（教程）  
 　　　　　[超详细 | 贝叶斯网络基础——有图有真相](https://blog.csdn.net/qq_41603411/article/details/104708470)（教程）  
 　　　　　李航《统计学习方法》  
-　　　　　西瓜书
+　　　　　西瓜书  
 　　　　　[概率论沉思录](https://space.bilibili.com/804420/channel/collectiondetail?sid=1558360&spm_id_from=333.788.0.0)（视频）  
 　　　　　《概率论沉思录》  
 　　　　　The Book of Why  
