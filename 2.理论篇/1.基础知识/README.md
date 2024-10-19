@@ -56,7 +56,7 @@
 # *8.图论*
 前置知识：中学数学
 
-主要内容：**图的基本概念**、**树的基本概念**、**最小生成树**、Dijkstra算法、Bellman-Ford算法、Floyd算法、Prim算法、Kruskal算法、Boruvka算法
+主要内容：**图的基本概念**、**树的基本概念**、**最小生成树**、伪代码、Dijkstra算法、Bellman-Ford算法、Floyd算法、Prim算法、Kruskal算法、Boruvka算法
 
 推荐资料：[图论部分简介 - OI Wiki](https://oi-wiki.org/graph/)  
 　　　　　[图论正式发布！ | 代码随想录](https://www.programmercarl.com/qita/tulunfabu.html)  
