@@ -21,7 +21,7 @@
 
 推荐资料：[支持向量机](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/4.%20SVM)（教程）  
 　　　　　[数之道](https://space.bilibili.com/152254793/channel/collectiondetail?sid=1050&spm_id_from=333.788.0.0)（视频）  
-　　　　　李航《统计学习方法》
+　　　　　李航《统计学习方法》  
 　　　　　西瓜书
 # 4.贝叶斯网络
 前置知识：概率论与数理统计、图论
