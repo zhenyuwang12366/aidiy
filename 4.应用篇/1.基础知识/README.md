@@ -61,7 +61,7 @@
 主要内容：Git的安装、克隆仓库、创建新分支、工作目录、暂存文件、提交更改、拉取最新更改、推送更改、创建 Pull Request、合并更改、删除分支
 
 推荐资料：[Git - CS自学指南](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/)  
-　　　　　　[Git 教程](https://www.runoob.com/git/git-tutorial.html)  
+　　　　　[Git 教程](https://www.runoob.com/git/git-tutorial.html)  
 # 9.评估方法
 前置知识：中学数学
 
