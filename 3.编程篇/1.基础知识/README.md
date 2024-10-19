@@ -22,7 +22,7 @@
 主要内容：Jupyter Notebook的安装、notebook的运行、单元格、内核
 
 推荐资料：[[译] 给初学者的 Jupyter Notebook 教程](https://zhuanlan.zhihu.com/p/36858283)  
-　　　　　　[Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
+　　　　　[Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
 
 # 4.NumPy
 前置知识：Python基础语法、*理论篇-1.基础知识-2.线性代数*
