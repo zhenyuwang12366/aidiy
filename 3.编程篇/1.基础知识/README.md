@@ -17,7 +17,7 @@
 　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）
 
 # *3.Jupyter Notebook*
-前置知识：Anaconda的安装/VSCode的安装/Pycharm专业版的安装与*破解*（三选一）、Markdown
+前置知识：Anaconda的安装、VSCode的安装/Pycharm专业版的安装与*破解*（二选一）、Markdown
 
 主要内容：Jupyter Notebook的安装、notebook的运行、单元格、内核
 
