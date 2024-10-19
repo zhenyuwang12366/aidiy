@@ -39,8 +39,31 @@
 推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
 　　　　　[各种距离 欧式距离、曼哈顿距离、切比雪夫距离、闵可夫斯基距离、标准欧氏距离、马氏距离、余弦距离、汉明距离、杰拉德距离、相关距离、信息熵](https://www.cnblogs.com/AlvinSui/p/8931074.html)
 # 6.特征工程
-前置知识：中学数学、*概率论与数理统计*、*矩阵分析*
+前置知识：中学数学
 
 主要内容：特征工程、**特征归一化**、类别型特征、高维组合特征的处理
 
 推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)
+# *7.概率论与数理统计*
+前置知识：高等数学、线性代数
+
+主要内容：条件概率、全概率公式、贝叶斯公式、随机变量、多维随机变量、随机变量的数字特征、参数估计
+
+推荐资料：浙江大学《概率论与数理统计》
+# *8.图论*
+前置知识：中学数学
+
+主要内容：**图的基本概念**、**树的基本概念**、**最小生成树**、Dijkstra算法、Bellman-Ford算法、Floyd算法、Prim算法、Kruskal算法、Boruvka算法
+
+推荐资料：[图论部分简介 - OI Wiki](https://oi-wiki.org/graph/)  
+　　　　　[图论正式发布！ | 代码随想录](https://www.programmercarl.com/qita/tulunfabu.html)  
+　　　　　屈婉玲《离散数学及其应用》  
+　　　　　屈婉玲《离散数学》  
+　　　　　刁在筠《运筹学》
+
+# *9.矩阵分析*
+前置知识：高等数学、线性代数
+
+主要内容：特征值、矩阵分解、矩阵求导
+
+推荐资料：玄祖兴《矩阵分析》
