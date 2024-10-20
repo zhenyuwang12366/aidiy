@@ -45,7 +45,9 @@
 # 6.XGBoost
 前置知识：GBDT
 
-主要内容：XGBoost算法的思想、XGBoost目标函数、XGBoost正则项、XGBoost
+主要内容：XGBoost算法的思想、XGBoost目标函数、XGBoost正则项、XGBoost树的生长、XGBoost树生长的停止条件
+
+推荐资料：[XGBoost](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.3%20XGBoost)
 # 4.支持向量机
 前置知识：矩阵分析
 
