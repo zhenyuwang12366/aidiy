@@ -5,6 +5,7 @@
 
 推荐资料：[蒟蒻祈祷中…](https://github.com/YQ157/CUMTB-ICPC/tree/main/%E6%A8%A1%E6%9D%BF%E5%8C%BA/%E8%92%9F%E8%92%BB%E7%A5%88%E7%A5%B7%E4%B8%AD%E2%80%A6)  
 　　　　　[OI wiki](https://oi-wiki.org/)  
+　　　　　[代码随想录](https://www.programmercarl.com/)  
 　　　　　屈婉玲《离散数学及其应用》  
 　　　　　屈婉玲《离散数学》  
 　　　　　刁在筠《运筹学》  
