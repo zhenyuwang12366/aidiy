@@ -93,9 +93,9 @@
 
 推荐资料：[主题模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.3%20Topic%20Model)  
 　　　　　[十分钟带你理解LDA主题模型 超通俗理解](https://blog.csdn.net/qq_34687559/article/details/106193545)  
-　　　　　西瓜书
-　　　　　《LDA数学八卦》
-　　　　　《LDA漫游指南》
+　　　　　西瓜书  
+　　　　　《LDA数学八卦》  
+　　　　　《LDA漫游指南》  
 # 12.EM算法
 前置知识：概率论与数理统计
 
