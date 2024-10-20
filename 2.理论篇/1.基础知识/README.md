@@ -25,7 +25,7 @@
 主要内容：线性回归模型、损失函数、梯度下降、学习率、向量化、特征放缩、特征工程、正则化
 
 推荐资料：[线性回归](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md)  
-　　　　　[(强推|双字)最新吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s?spm_id_from=333.788.videopod.episodes&vd_source=8f7be58fae99de36e73582d589f00ca1)
+　　　　　[(强推|双字)最新吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s?spm_id_from=333.788.videopod.episodes&vd_source=8f7be58fae99de36e73582d589f00ca1)  
 　　　　　李航《统计学习方法》  
 　　　　　周志华《机器学习》（西瓜书）
 # 4.优化方法
