@@ -22,7 +22,7 @@
 # 3.线性回归算法
 前置知识：高等数学、线性代数
 
-主要内容：线性回归模型、损失函数、梯度下降、学习率、向量化、特征放缩、特征工程、正则化
+主要内容：线性回归模型、损失函数、平方损失函数、梯度下降、学习率、向量化、特征放缩、特征工程、正则化
 
 推荐资料：[线性回归](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md)  
 　　　　　[(强推|双字)最新吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s?spm_id_from=333.788.videopod.episodes&vd_source=8f7be58fae99de36e73582d589f00ca1)  
@@ -31,9 +31,10 @@
 # 4.优化方法
 前置知识：高等数学、线性代数
 
-主要内容：**平方损失函数**、log损失函数、Hinge损失函数、凸优化、**正则化**、**梯度下降**、**随机梯度下降**、**mini-batch梯度下降**
+主要内容：损失函数、**平方损失函数**、log损失函数、Hinge损失函数、代价函数、目标函数、凸优化、**正则化**、**梯度下降**、**随机梯度下降**、**mini-batch梯度下降**
 
-推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)
+推荐资料：[[机器学习] 深入理解 目标函数，损失函数和代价函数](https://blog.csdn.net/zwqjoy/article/details/82254602)  
+　　　　　[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)
 # 5.评估方法
 前置知识：中学数学
 
