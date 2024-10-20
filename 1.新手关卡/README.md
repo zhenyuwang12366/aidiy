@@ -44,7 +44,7 @@
 　　　　　[零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)  
 　　　　　[TensorFlow模型实战](https://tf.wiki/zh_hans/basic/models.html)  
 　　　　　[zhjunqin机器学习](https://zhjunqin.gitbook.io/machine-learning)  
-　　　　　[邱锡鹏《神经网络与深度学习》](https://nndl.github.io/)
+　　　　　[邱锡鹏《神经网络与深度学习》](https://nndl.github.io/)  
 　　　　　[chinmayhegde深度学习](https://chinmayhegde.github.io/dl-notes/)  
 　　　　　[ChatGPT](https://chatgpt.com/)  
 　　　　　[中文维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)  
