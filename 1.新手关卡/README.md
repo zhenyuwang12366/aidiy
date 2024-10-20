@@ -62,7 +62,7 @@
 主要内容：Markdown编辑器的使用、标题、段落、换行、强调、引用、列表、代码、分割线、链接、图片、转义字符、*数学公式*、*内嵌HTML标签*
 
 推荐资料：[Markdown教程](https://markdown.com.cn/)
-# *9.Linux*，
+# *9.Linux*
 主要内容：WSL子系统/Windows、Ubuntu双系统/虚拟机+Ubuntu安装（三选一）、登录、文件与目录管理、用户和用户组管理、磁盘管理、vi/vim、yum命令、apt命令  
 
 推荐资料：[Linux 教程](https://www.runoob.com/linux/linux-tutorial.html)
