@@ -26,6 +26,10 @@
 推荐资料：[决策树](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md)  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书
+# 4.随机森林
+前置知识：决策树
+
+主要内容：
 # 4.支持向量机
 前置知识：矩阵分析
 
@@ -49,11 +53,12 @@
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书  
 # 6.马尔可夫链
-前置知识：贝叶斯网络
+前置知识：概率论与数理统计、数据结构与算法
 
 主要内容：马尔可夫过程、状态转移矩阵、隐马尔可夫模型、遍历算法、前向算法、后向算法、Viterbi算法、Baum-Welch算法
 
 推荐资料：[【数之道 18】"马尔可夫链"是什么？了解它只需5分钟！](https://www.bilibili.com/video/BV19b4y127oZ/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[马尔可夫](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.2%20Markov)（教程）  
+  　　　　浙江大学《概率论与数理统计》  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书 
