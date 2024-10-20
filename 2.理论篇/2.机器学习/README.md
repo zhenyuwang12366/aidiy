@@ -29,7 +29,12 @@
 # 4.随机森林
 前置知识：决策树
 
-主要内容：
+主要内容：集成学习、Boosting、Bagging、随机森林、结合策略
+
+推荐资料：[随机森林（Flandre-Blog）](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97.md)  
+　　　　　[随机森林（ML-NLP）](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md)  
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书
 # 4.支持向量机
 前置知识：矩阵分析
 
