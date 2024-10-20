@@ -9,7 +9,7 @@
 
 主要内容：Anaconda的安装、查看帮助、查看conda版本、虚拟环境的概念、创建虚拟环境、进入已创建的虚拟环境、退出当前虚拟环境、查看所有环境、复制环境、删除环境、包的概念、安装包、升级包、卸载包、查看已安装的包
 
-推荐资料：[常用conda指令](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/cmd%E7%9A%84conda%E6%8C%87%E4%BB%A4.md)  
+推荐资料：[常用conda指令](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/%E5%B8%B8%E7%94%A8conda%E6%8C%87%E4%BB%A4.md)  
 　　　　　[Miniconda安装教程、虚拟环境的创建与使用](https://blog.csdn.net/qq_62928482/article/details/139641905?spm=1001.2014.3001.550)  
 　　　　　[Anaconda 教程](https://www.runoob.com/python-qt/anaconda-tutorial.html)
 # 3.pip
