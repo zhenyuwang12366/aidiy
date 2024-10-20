@@ -9,7 +9,7 @@
 　　　　　[电子扫盲课—如何正确下载STEAM等软件？](https://www.bilibili.com/video/BV1yr421F7Cb/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[你缺失的那门计算机课](https://www.criwits.top/missing/)（教程）
 # 3.计算机科学与技术中的基本概念
-推荐资料：中国矿业大学《人工智能概论》
+推荐资料：中国矿业大学《人工智能概论》　　
 　　　　　[面向新手-计算机科学中的100+概念解释](https://www.bilibili.com/video/BV1tp4y1E7aB/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[一文带你搞懂公网、私网、内网、外网的区别](https://blog.csdn.net/easylife206/article/details/134046598)（教程）  
 　　　　　[VPN和翻墙的常见误区、误解](https://www.bilibili.com/video/BV1vz42187Da/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频） 
