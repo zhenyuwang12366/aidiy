@@ -57,7 +57,7 @@
 # 8.支持向量机
 前置知识：矩阵分析
 
-主要内容：超平面、间隔、支持向量、损失因子、软间隔、升维转换、核技巧
+主要内容：超平面、间隔、支持向量、正超平面、负超平面、决策超平面、hinge损失函数、软间隔、升维转换、核技巧
 
 推荐资料：[支持向量机](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/4.%20SVM)（教程）  
 　　　　　[数之道](https://space.bilibili.com/152254793/channel/collectiondetail?sid=1050&spm_id_from=333.788.0.0)（视频）  
@@ -93,5 +93,24 @@
 
 推荐资料：[主题模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.3%20Topic%20Model)  
 　　　　　[十分钟带你理解LDA主题模型 超通俗理解](https://blog.csdn.net/qq_34687559/article/details/106193545)  
-　　　　　《LDA数学八卦》
 　　　　　西瓜书
+　　　　　《LDA数学八卦》
+　　　　　《LDA漫游指南》
+# 12.EM算法
+前置知识：概率论与数理统计
+
+主要内容：似然函数、极大似然函数的求解步骤、EM算法
+
+推荐资料：[最大期望算法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/6.%20EM)  
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书 
+# 13.聚类算法
+前置知识：概率论与数理统计、矩阵分析、数据结构与算法
+
+主要内容：无监督学习、k均值算法、k均值算法损失函数、肘部法则、高斯混合模型
+
+推荐资料：[聚类](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/7.%20Clustering)  
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书 
+# 14.k近邻算法
+前置知识：
