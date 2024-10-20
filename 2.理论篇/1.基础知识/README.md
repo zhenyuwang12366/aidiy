@@ -34,7 +34,9 @@
 主要内容：损失函数、**平方损失函数**、log损失函数、Hinge损失函数、代价函数、目标函数、凸优化、**正则化**、**梯度下降**、**随机梯度下降**、**mini-batch梯度下降**
 
 推荐资料：[[机器学习] 深入理解 目标函数，损失函数和代价函数](https://blog.csdn.net/zwqjoy/article/details/82254602)  
-　　　　　[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)
+　　　　　[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书
 # 5.评估方法
 前置知识：中学数学
 
@@ -42,12 +44,16 @@
 
 推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
 　　　　　[各种距离 欧式距离、曼哈顿距离、切比雪夫距离、闵可夫斯基距离、标准欧氏距离、马氏距离、余弦距离、汉明距离、杰拉德距离、相关距离、信息熵](https://www.cnblogs.com/AlvinSui/p/8931074.html)
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书
 # 6.特征工程
 前置知识：中学数学
 
 主要内容：特征工程、**特征归一化**、类别型特征、高维组合特征的处理
 
-推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)
+推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
+　　　　　李航《统计学习方法》  
+　　　　　西瓜书
 # *7.概率论与数理统计*
 前置知识：高等数学、线性代数
 
