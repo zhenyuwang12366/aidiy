@@ -1,7 +1,7 @@
 # 1.数据结构与算法
 前置知识：中学数学、至少一门编程语言
 
-主要内容：复杂度、伪代码、图、树、最小生成树、最小生成树算法、搜索、动态规划、贪心
+主要内容：复杂度、**伪代码**、**图**、**树**、最小生成树、最小生成树算法、搜索、动态规划、贪心
 
 推荐资料：[蒟蒻祈祷中…](https://github.com/YQ157/CUMTB-ICPC/tree/main/%E6%A8%A1%E6%9D%BF%E5%8C%BA/%E8%92%9F%E8%92%BB%E7%A5%88%E7%A5%B7%E4%B8%AD%E2%80%A6)  
 　　　　　[OI wiki](https://oi-wiki.org/)  
@@ -45,10 +45,16 @@
 # 6.XGBoost
 前置知识：GBDT
 
-主要内容：XGBoost算法的思想、XGBoost目标函数、XGBoost正则项、XGBoost树的生长、XGBoost树生长的停止条件
+主要内容：XGBoost算法的思想、XGBoost目标函数、XGBoost正则项、XGBoost树的生长、XGBoost树生长的停止条件、XGBoost对GBDT的优化
 
 推荐资料：[XGBoost](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.3%20XGBoost)
-# 4.支持向量机
+# 7.LightGBM
+前置知识：XGBoost
+
+主要内容：LightGBM对XGBoost的优化、Histogram算法、带深度限制的Leaf-wise的叶子生长策略、直方图差加速、LightGBM对类别特征的支持
+
+推荐资料：[LightGBM](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.4%20LightGBM)
+# 8.支持向量机
 前置知识：矩阵分析
 
 主要内容：超平面、间隔、支持向量、损失因子、软间隔、升维转换、核技巧
@@ -57,7 +63,7 @@
 　　　　　[数之道](https://space.bilibili.com/152254793/channel/collectiondetail?sid=1050&spm_id_from=333.788.0.0)（视频）  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书
-# 5.贝叶斯网络
+# 9.贝叶斯网络
 前置知识：概率论与数理统计、数据结构与算法
 
 主要内容：贝叶斯学派、**先验分布**、**后验分布**、**似然函数**、贝叶斯主义、同父结构、V型结构、**顺序结构**
@@ -70,7 +76,7 @@
 　　　　　The Book of Why  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书  
-# 6.马尔可夫链
+# 10.马尔可夫链
 前置知识：概率论与数理统计、数据结构与算法
 
 主要内容：马尔可夫过程、状态转移矩阵、隐马尔可夫模型、遍历算法、前向算法、后向算法、Viterbi算法、Baum-Welch算法
@@ -80,3 +86,12 @@
 　　　　　浙江大学《概率论与数理统计》  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书 
+# 11.主题模型
+前置知识：贝叶斯网络、马尔科夫链
+
+主要内容：Gamma函数、二项分布、多项分布、共轭先验分布、Beta分布、狄利克雷分布、词、主题、语料库、文档、Unigram model、Mixture of unigrams model、PLSA模型、LDA模型
+
+推荐资料：[主题模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.3%20Topic%20Model)  
+　　　　　[十分钟带你理解LDA主题模型 超通俗理解](https://blog.csdn.net/qq_34687559/article/details/106193545)  
+　　　　　《LDA数学八卦》
+　　　　　西瓜书
