@@ -59,6 +59,6 @@
 
 推荐资料：[【数之道 18】"马尔可夫链"是什么？了解它只需5分钟！](https://www.bilibili.com/video/BV19b4y127oZ/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（视频）  
 　　　　　[马尔可夫](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/5.2%20Markov)（教程）  
-  　　　　浙江大学《概率论与数理统计》  
+　　　　　浙江大学《概率论与数理统计》  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书 
