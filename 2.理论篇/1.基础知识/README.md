@@ -18,7 +18,7 @@
 　　　　　　北京大学《高等代数》  
 　　　　　　东南大学《基本分析讲义》  
 线性变换的几何意义：人教版高中数学选修4-2《矩阵与变换》  
-　　　　　　　　　　[【官方双语/合集】线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（线性变换的几何意义）
+　　　　　　　　　　[【官方双语/合集】线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)
 # 3.线性回归算法
 前置知识：高等数学、线性代数
 
