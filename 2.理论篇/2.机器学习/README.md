@@ -35,6 +35,17 @@
 　　　　　[随机森林（ML-NLP）](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md)  
 　　　　　李航《统计学习方法》  
 　　　　　西瓜书
+# 5.GBDT
+前置知识：随机森林
+
+主要内容：Boosting、GBDT算法、负梯度近似残差、GBDT训练过程
+
+推荐资料：[GBDT](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/3.2%20GBDT)  
+　　　　　[图解机器学习算法(9) | GBDT模型详解（机器学习通关指南·完结）](https://blog.csdn.net/ShowMeAI/article/details/123402422)
+# 6.XGBoost
+前置知识：GBDT
+
+主要内容：XGBoost算法的思想、XGBoost目标函数、XGBoost正则项、XGBoost
 # 4.支持向量机
 前置知识：矩阵分析
 
