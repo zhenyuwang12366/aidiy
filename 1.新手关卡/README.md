@@ -48,7 +48,7 @@
 　　　　　[chinmayhegde深度学习](https://chinmayhegde.github.io/dl-notes/)  
 　　　　　[ChatGPT](https://chatgpt.com/)  
 　　　　　[中文维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)  
-　　　　　[英文维基百科](https://en.wikipedia.org/wiki/Main_Page)
+　　　　　[英文维基百科](https://en.wikipedia.org/wiki/Main_Page)  
 　　　　　[Zlibrary](https://zh.1lib.sk/)  
 　　　　　[StackOverFlow](https://stackoverflow.com/)  
 　　　　　[实用工具箱](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/tools/)
