@@ -4,7 +4,7 @@
 主要内容：Anaconda的安装、打开CMD、虚拟环境的概念、创建和删除虚拟环境、激活进入虚拟环境、包的概念、使用pip命令通过国内的镜像源下载和卸载指定版本的Python包
 
 推荐资料：[pip国内常见镜像源](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/pip%E5%9B%BD%E5%86%85%E5%B8%B8%E8%A7%81%E9%95%9C%E5%83%8F%E6%BA%90.md)  
-　　　　　[常用conda指令](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/cmd%E7%9A%84conda%E6%8C%87%E4%BB%A4.md)  
+　　　　　[常用conda指令](https://github.com/Discrete-Mathematics/Flandre-Blog/blob/main/%E5%B8%B8%E7%94%A8conda%E6%8C%87%E4%BB%A4.md)  
 　　　　　[Miniconda安装教程、虚拟环境的创建与使用](https://blog.csdn.net/qq_62928482/article/details/139641905?spm=1001.2014.3001.550)  
 
 # 2.Python基础语法
