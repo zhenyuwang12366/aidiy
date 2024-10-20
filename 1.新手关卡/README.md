@@ -36,7 +36,7 @@
 　　　　　[必应搜索](https://www.bing.com/)  
 　　　　　[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
 　　　　　[你缺失的那门计算机课](https://www.criwits.top/missing/)  
-　　　　　[CS自学指南](https://csdiy.wiki)  
+　　　　　[计算机科学与技术自学指南](https://csdiy.wiki)  
 　　　　　[AI自学指南](https://github.com/Discrete-Mathematics/ai-self-learning)  
 　　　　　[菜鸟教程](https://www.runoob.com/)  
 　　　　　[机器学习、深度学习、自然语言处理知识点总结与代码实现](https://github.com/NLP-LOVE/ML-NLP/tree/master)  
