@@ -43,6 +43,10 @@ class LeNet(nn.Module):  # 所有的神经网络组件模块最终都要继承nn
         out = self.fc3(out)
         return out
 ```
+
+注：super() 函数用来查找并调用父类中的方法，通常在子类中使用来继承和扩展父类的功能。  
+LeNet 是子类的名称，表明要调用的是 LeNet 类的父类。  
+self 是子类的实例，它告诉 super() 要为哪个实例调用父类的 __init__ 方法。
 ## 二. nn.Module属性
 ### 1. torch.nn包
 
