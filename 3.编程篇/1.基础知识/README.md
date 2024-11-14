@@ -14,7 +14,8 @@
 
 推荐资料：[Python 基础教程](https://www.runoob.com/python/python-object.html)（教程）  
 　　　　　[（2021最新菜鸟教程）从计算机构成开始讲的Python基础语法，我家楼下保安都学会了！（附带课件源码）](https://www.bilibili.com/video/BV1Y64y1r7Pu/?spm_id_from=333.999.0.0)（网课）  
-　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）
+　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
+　　　　　[从python开始的ai学习-python基础与数据科学入门](https://github.com/Discrete-Mathematics/ai-self-learning/tree/main/%E4%BB%8Epython%E5%BC%80%E5%A7%8B%E7%9A%84ai%E5%AD%A6%E4%B9%A0/python%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8) （教程）
 
 # *3.Jupyter Notebook*
 前置知识：Anaconda的安装、VSCode的安装/Pycharm专业版的安装与*破解*（二选一）、Markdown
@@ -33,6 +34,7 @@
 　　　　　[【python教程】数据分析——numpy、pandas、matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
 　　　　　[NumPy 教程](https://www.runoob.com/numpy/numpy-tutorial.html)（教程）  
 　　　　　[线性代数与Python](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/3.%E7%BC%96%E7%A8%8B%E7%AF%87/%E8%A1%A5%E5%85%85%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8EPython.md)（教程）
+　　　　　[从python开始的ai学习-python基础与数据科学入门](https://github.com/Discrete-Mathematics/ai-self-learning/tree/main/%E4%BB%8Epython%E5%BC%80%E5%A7%8B%E7%9A%84ai%E5%AD%A6%E4%B9%A0/python%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8) （教程）
 
 # 5.Pandas
 前置知识：NumPy、*应用篇-1.基础知识-6.JSON*
@@ -41,3 +43,4 @@
 
 推荐资料：[Pandas 教程](https://www.runoob.com/pandas/pandas-correlations.html)(教程)  
 　　　　　[【python教程】数据分析——numpy、pandas、matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课） 
+　　　　　[从python开始的ai学习-python基础与数据科学入门](https://github.com/Discrete-Mathematics/ai-self-learning/tree/main/%E4%BB%8Epython%E5%BC%80%E5%A7%8B%E7%9A%84ai%E5%AD%A6%E4%B9%A0/python%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8) （教程）
