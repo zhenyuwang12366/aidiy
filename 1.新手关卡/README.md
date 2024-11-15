@@ -36,6 +36,7 @@
 　　　　　[中国矿业大学(北京)学生事务管理系统](https://auth.cumtb.edu.cn/authserver/login?service=http%3A%2F%2F118.228.224.200%3A8081%2F)  
 　　　　　[中国矿业大学(北京)路矿云学堂](https://cumtb.fanya.chaoxing.com/portal)  
 　　　　　[中国矿业大学(北京)VPN服务](https://vpn.cumtb.edu.cn)  
+　　　　　[中国矿业大学（北京）推荐优秀应届本科毕业生免试攻读研究生工作管理办法（2022年修订）](https://jwc.cumtb.edu.cn/info/1136/4151.htm)
 　　　　　[谷歌搜索](https://www.google.com.hk/webhp?hl=zh-CN&gl=cn)  
 　　　　　[必应搜索](https://www.bing.com/)  
 　　　　　[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
