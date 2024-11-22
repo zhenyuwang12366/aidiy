@@ -1,5 +1,7 @@
 # 模型容器与AlexNet构建
+
 ## 一. 模型容器（Containers）
+
 ### 1. 常用容器
 
 ![1](pcs/1.png "1")
@@ -7,6 +9,7 @@
 #### （1）nn.Sequential
 
 使用 例：
+
 ```json
 self.features = nn.Sequential(
         nn.Conv2d(3, 6, 5),
@@ -22,6 +25,7 @@ self.features = nn.Sequential(
 可以使forward方法设计起来更加简介清楚
 
 使用容器之前：
+
 ```json
 def forward(self, x):  # 按前向传播的顺序拼接子模块
     out = F.relu(self.conv1(x))
@@ -36,6 +40,7 @@ def forward(self, x):  # 按前向传播的顺序拼接子模块
 ```
 
 使用容器之后：
+
 ```json
 def forward(self, x):
     x = self.features(x)
@@ -49,6 +54,7 @@ def forward(self, x):
 注：Sequential还可以对网络层进行命名，默认是0，1，2，……
 
 使用方法：传入一个有序字典
+
 ```json
 self.classifier = nn.Sequential(OrderedDict({
         "fc1": nn.Linear(16*5*5, 120),
@@ -68,6 +74,7 @@ self.classifier = nn.Sequential(OrderedDict({
 ![4](pcs/4.png "4")
 
 使用方法（例）：
+
 ```json
 self.linears = nn.ModuleList([nn.Linear(10,10) for i in range(20)])
 ```
@@ -77,6 +84,7 @@ self.linears = nn.ModuleList([nn.Linear(10,10) for i in range(20)])
 ![5](pcs/5.png "5")
 
 使用方法（例）：
+
 ```json
 self.choices = nn.ModuleDict({
             "conv": nn.Conv2d(10, 10, 3),
@@ -89,6 +97,7 @@ self.choices = nn.ModuleDict({
 ![6](pcs/6.png "6")
 
 ## 二. AlexNet构建
+
 ### 1. 介绍
 
 ![7](pcs/7.png "7")
