@@ -2,9 +2,7 @@
 推荐资料：[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)  
 　　　　　[为什么知乎用户数学学得那么超前？](https://www.zhihu.com/question/433633705/answer/1619595925)  
 　　　　　[学校让人沾染上的 100+ 恶习](https://zhuanlan.zhihu.com/p/559705516)
-# 2.中国矿业大学（北京）生存手册（简略版）
-![image](https://github.com/user-attachments/assets/429fecc2-67fb-4fc0-bb59-4f429a6fb41e)  
-![806b4ab9521007a1b304f71d522fddb7](https://github.com/user-attachments/assets/354b2732-dbcd-4be3-9827-2462b6afb14f)
+# [2.中国矿业大学（北京）生存手册](https://zhuanlan.zhihu.com/p/8659898615)
 
 # 3.个人电脑的日常使用
 主要内容：硬件、软件、文件、文件管理、软件的寻找与安装、基本维护和安全防护、PIN、遇到问题怎么办、快捷键、Office、WPS、浏览器、压缩文件、压缩工具、工具类软件推荐、TreeSize磁盘管理、Everything文件搜索、怎样寻找优质的教程
