@@ -32,6 +32,7 @@
 推荐资料：[此链接](https://jegocloud.com/)出现在这里纯属二进制 bit 的随意组合，与本人毫无关系
 # 7.实用网站
 推荐资料：[中国矿业大学(北京)官网](https://www.cumtb.edu.cn/)  
+　　　　　[中国矿业大学（北京）人工智能学院师资队伍](https://ai.cumtb.edu.cn/szdw/rgzn.htm)  
 　　　　　[中国矿业大学(北京)图书馆电子资源](http://219.242.65.10/lib/Sub.html#!Module/Resource/Type/Classify/Content/00/ColumnId/c92a1e31-fd7b-4a6a-a6b1-a8030ab0dc03/Page/1)  
 　　　　　[中国矿业大学(北京)学生事务管理系统](https://auth.cumtb.edu.cn/authserver/login?service=http%3A%2F%2F118.228.224.200%3A8081%2F)  
 　　　　　[中国矿业大学(北京)路矿云学堂](https://cumtb.fanya.chaoxing.com/portal)  
