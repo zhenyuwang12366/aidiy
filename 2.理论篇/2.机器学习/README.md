@@ -3,7 +3,7 @@
 
 主要内容：复杂度、**伪代码**、**图**、**树**、最小生成树、最小生成树算法、最短路径算法、搜索、动态规划、贪心
 
-推荐资料：[蒟蒻祈祷中…](https://github.com/YQ157/CUMTB-ICPC/tree/main/%E6%A8%A1%E6%9D%BF%E5%8C%BA/%E8%92%9F%E8%92%BB%E7%A5%88%E7%A5%B7%E4%B8%AD%E2%80%A6)  
+推荐资料：[算法](https://github.com/Discrete-Mathematics/Flandre-Blog/tree/main/%E7%AE%97%E6%B3%95)  
 　　　　　[OI wiki](https://oi-wiki.org/)  
 　　　　　[代码随想录](https://www.programmercarl.com/)  
 　　　　　屈婉玲《离散数学及其应用》  
