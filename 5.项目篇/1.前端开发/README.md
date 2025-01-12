@@ -13,4 +13,8 @@
 # 3.JavaScript
 前置知识：CSS
 
-主要内容：输出、字面量、变量、运算符、语句、关键字、注释、数据类型、对象、作用域、事件、字符串、模板字符串、
+主要内容：输出、字面量、变量、运算符、语句、关键字、注释、数据类型、对象、作用域、事件、字符串、模板字符串、正则表达式、严格模式、表单、表单验证、验证API、this、let、const、JSON、void、异步编程、Promise、类、类继承、静态方法、DOM、DOM HTML、DOM CSS、DOM事件、DOM EventListener、DOM元素、HTMLCollection对象、NodeList对象、prototype、Number对象、String、日期、数组、布尔、算数、RegExp对象、Window、Window Screen、Window Location、Window History、Navigator、弹窗、计时事件、Cookie、库、测试jQuery、测试Prototype  
+
+推荐资料：[3小时前端入门教程（HTLM+CSS+JS](https://www.bilibili.com/video/BV1BT4y1W7Aw/)  
+　　　　　[JavaScript 教程](https://www.runoob.com/js/js-tutorial.html)  
+# 4.Vue.js
