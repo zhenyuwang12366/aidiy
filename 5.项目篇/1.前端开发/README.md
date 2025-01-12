@@ -26,12 +26,30 @@
 
 推荐资料：[Vue3 教程](https://www.runoob.com/vue3/vue3-tutorial.html)  
 # 5.ES6
-前置知识：JavaScript
+前置知识：JavaScript  
 
-主要内容：let、const、解构赋值、Symbol、Map、Set、Reflect、Proxy、字符串、数值、对象、数组、函数、Class类、模块、Promise对象、Generator
-# 6.TypeScript
+主要内容：let、const、解构赋值、Symbol、Map、Set、Reflect、Proxy、字符串、数值、对象、数组、函数、Class类、模块、Promise对象、Generator函数、async函数  
+
+推荐资料：[ES6 教程](https://www.runoob.com/w3cnote/es6-tutorial.html)  
+# 6.React
+前置知识：ES6  
+
+主要内容：创建项目、元素渲染、JSX、组件、组件状态、Props、事件处理、条件渲染、列表&Keys、组件API、组件生命周期、AJAX、表单、Refs、条件判断、路由、Memo、React使用 CSS 样式、Sass、Tailwind CSS、Hooks
+
+推荐资料：[React 教程](https://www.runoob.com/react/react-css.html)
+# 7.TypeScript
 前置知识：JavaScript  
 
 主要内容：基础语法、基本结构、基础类型、变量声明、运算符、条件语句、循环、函数、Number、String、数组、Map对象、元组、联合类型、接口、类、对象、泛型、命名空间、模块、声明文件、测验  
 
 推荐资料：[TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html)  
+# 8.Flux
+前置知识：React
+
+主要内容：View、Action、Dispatcher、Store
+
+推荐资料：[Flux 架构入门教程](https://www.ruanyifeng.com/blog/2016/01/flux.html)  
+# 9.Redux
+前置知识：React、*Flux*  
+
+主要内容：
