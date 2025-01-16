@@ -1,62 +1,38 @@
-# Overflow Stack
-The overflow stack family (System Development Stack, Web Front End Stack, Database Stack, .NET Stack etc.):
-http://overflowstack.github.io 
+*来自https://github.com/unruledboy/DevelopmentStack*
 
-# DevelopmentStack
-System development basics, analysis, project/planning, documentation, wireframe/mockup, design/modeling, implementation, quality, management, build, testing, deployment, maintenance, troubleshooting, learning
-
-
-![Image of System Development Stack](Development Stack.png)
-
-
-# What and why?
-Have you ever wondered:
-* what system development really includes? 
-* how many do I possess?
-
-
-I could not find a really comprehensive diagram that shows the system development stack, so I come up with my own version.
-
-There might be issues here and there, like the category, the individual ones, but the beautity is you can modify it as you want.
-
-You can have a graphical preview here (use mouse to move / zoom): 
-
-https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm  
-
-
-# The Development Stack
+# 系统开发技术栈
 <!--BUILD_START-->
 
-- System Development
-	- Stacks
-		- [Development Stack](https://github.com/unruledboy/DevelopmentStack) 
-		- [Web Front End Stack](https://github.com/unruledboy/WebFrontEndStack) 
-		- [Database Stack](https://github.com/unruledboy/DatabaseStack) 
-		- [.NET Stack](https://github.com/unruledboy/DotNetStack) 
-	- Basics
-		- [Software Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) 
-			- Initiation
-			- System Concept Development
-			- Planning
-			- Requirements Analysis
-			- Design
-			- Development
-			- Integration & Test
-			- Implementation
-			- Operations & Maintenance
-			- Disposition
-		- Environments
-			- Operation Systems (OS)
+- 系统开发
+	- 技术栈
+		- [系统开发栈](https://github.com/unruledboy/DevelopmentStack) 
+		- [Web前端开发栈](https://github.com/unruledboy/WebFrontEndStack) 
+		- [数据库栈](https://github.com/unruledboy/DatabaseStack) 
+		- [.NET栈](https://github.com/unruledboy/DotNetStack) 
+	- 基础
+		- [软件开发生命周期(SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle) 
+			- 启动
+			- 系统概念开发
+			- 计划
+			- 需求分析
+			- 设计
+			- 开发
+			- 集成与测试
+			- 实施
+			- 运营与维护
+			- 处置
+		- 环境
+			- 操作系统(OS)
 				- Windows
 				- Linux
 				- Mac OS
 				- Unix
 				- BSD
 				- DOS  ;-)
-			- Desktop
-				- Graphical User Interface (GUI)
-				- Console User Interface (CUI)
-			- Mobile
+			- 桌面端
+				- 图形用户界面 (GUI)
+				- 控制台用户界面 (CUI)
+			- 移动端
 				- Android
 				- iOS
 				- Windows Phone (WP)
@@ -64,231 +40,231 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 				- Symbian ;-)
 				- Windows Mobile (WM) ;-)
 			- Web
-				- Front End
-				- Cloud
-					- Service Models
-						- System/Software as a Service (SaaS)
-						- Platform as a Service (PaaS)
-						- Infrastructure as a Service (IaaS)
-						- Desktop as a Service (DaaS)
-						- Backend as a Service (BaaS)
-					- Types
-						- Private Cloud
-						- Public Cloud
-							- Providers
+				- 前端
+				- 云
+					- 服务模型
+						- 系统/软件即服务 (SaaS)
+						- 平台即服务 (PaaS)
+						- 基础设施即服务 (IaaS)
+						- 桌面即服务 (DaaS)
+						- 后端即服务 (BaaS)
+					- 类型
+						- 私有云
+						- 公有云
+							- 供应商
 								- Microsoft Azure
 								- Amazon Web Services (AWS)
 								- Google Cloud
-						- Hybrid Cloud
-			- Platforms
+						- 混合云
+			- 平台
 				- [.NET](https://github.com/unruledboy/DotNetStack) 
 				- [Java](https://www.java.com) 
-		- Common Concepts
-			- Application Programming Interface (API)
-			- Component
-				- Library
-				- Plug-in
-				- Extension
-				- Assembly
-		- Architecture
-			- Standalone
-				- Desktop app
-				- Mobile app
-			- Multi Layers / n-Tiers
-				- Frontend / User Interface (UI)
-				- Backend
-				- [Database](https://github.com/unruledboy/DatabaseStack) 
-		- Software Types
-			- Open source
-				- Licenses
-					- GNU General Public License (GPL)
-					- GNU Lesser General Public License (LGPL)
-					- Apache License
-					- MIT License
-					- Mozilla Public License
-					- Microsoft Public License (MS-PL)
-			- Closed source / Freeware
-			- Commercial
-		- Methodologies
-			- Waterfall
-			- Agile
+		- 常见概念
+			- 应用程序编程接口 (API)
+			- 组件
+				- 库
+				- 插件
+				- 扩展
+				- 组件
+		- 架构
+			- 独立式
+				- 桌面端应用
+				- 移动端应用
+			- 多层/n层
+				- 前端/用户界面 (UI)
+				- 后端
+				- [数据库](https://github.com/unruledboy/DatabaseStack) 
+		- 软件类型
+			- 开源
+				- 许可证
+					- GNU通用公共许可证 (GPL)
+					- GNU较宽松通用公共许可证(LGPL)
+					- Apache许可证
+					- MIT许可证
+					- Mozilla共用许可证
+					- Microsoft公共许可证 (MS-PL)
+			- 闭源/免费软件
+			- 商业软件
+		- 方法论
+			- 瀑布模型
+			- 敏捷软件开发
 				- Scrum
-					- Daily Scrum (Standup)
-					- Backlog
+					- 每日Scrum (站会)
+					- 待办事项列表
 					- Sprint
-		- Standards
-			- Coding Standard
-			- Documentation Standard
-			- Release Standard
-		- Protocols
+		- 标准
+			- 编码标准
+			- 文档标准
+			- 发布标准
+		- 协议
 			- HTTP
-		- Formats
+		- 格式
 			- XML
 			- JSON
 			- MIME
-	- Project / Planning
-		- Target
-			- Resource
-			- Time
-		- Tools
+	- 项目/计划
+		- 目标
+			- 资源
+			- 时间
+		- 工具
 			- Microsoft Project
-	- Analysis
-		- Methodologies
-			- Object Oriented Analysis (OOA)
-		- Steps
-			- Scope Defintion
-			- Problem Analsysis
-			- Requirement Analysis
-			- Logical Design
-			- Decision Analysis
-		- Target
-			- Feasibility
-	- Documentation
-		- Specifications
-			- Software Requirement Specification (SRS)
-			- Software Architecture Description
-	- Design / Modeling
-		- Primitives
-			- Wireframe
-				- Functional skeleton design
-			- Mockup
-				- GUI design
-			- Proof of Concept (POC)
-				- Initial functional R&D
-			- Prototype
-				- Minimal functioning design
-		- Concepts
-			- Object Oriented Programming (OOP)
-			- Object Oriented Design (OOD)
-			- Complex Design
-			- Simplistic Design
-		- Thoughts
+	- 分析
+		- 方法论
+			- 面向对象分析 (OOA)
+		- 步骤
+			- 范围定义
+			- 问题分析
+			- 需求分析
+			- 逻辑设计
+			- 决策分析
+		- 目标
+			- 可行性
+	- 文档
+		- 规范
+			- 软件需求规格说明书 (SRS)
+			- 软件架构描述
+	- 设计/建模
+		- 原语
+			- 线框图
+				- 功能骨架设计
+			- 原型
+				- GUI设计
+			- 概念验证(POC)
+				- 初期功能研发
+			- 原型
+				- 最小功能设计
+		- 概念
+			- 面向对象编程(OOP)
+			- 面向对象设计 (OOD)
+			- 复杂设计
+			- 简介设计
+		- 思想
 			- Don't Repeat Yourself (DRY)
 			- Keep It Simple Stupid (KISS)
 			- You Aren't Gonna Need It (YAGNI)
 		- S.O.L.I.D.
-			- Single Responsibility Principle (SRP)
-			- Open/Closed Principle (OCP)
-			- Liskov Subsistitution Principle (LSP)
-			- Interface Segration Principle (ISP)
-			- Dependency Inversion Principle (DIP)
-		- Design Patterns
+			- 单一功能原则(Single Responsibility Principle, SRP)
+			- 开闭原则(Open/Closed Principle, OCP)
+			- 里氏替换原则(Liskov Subsistitution Principle, LSP)
+			- 接口隔离原则(Interface Segration Principle, ISP)
+			- 依赖反转原则(Dependency Inversion Principle, DIP)
+		- 设计模式
 			- GoF 23
-		- Tools
-			- Functional
+		- 工具
+			- 功能
 				- Visio
 				- UML
 					- Rational Rose
-			- Database
+			- 数据库
 				- ER Studio
 				- ERwin
-	- Development
-		- Concepts
+	- 开发
+		- 概念
 			- Zero Bug Bounce (ZBB)
-			- [MVP (Minimum Viable Product)](https://en.wikipedia.org/wiki/Minimum_viable_product) 
-		- Development
-			- Integrated Development Environment (IDE)
-			- Retrofit
-	- Quality
+			- [MVP (最简可行产品)](https://en.wikipedia.org/wiki/Minimum_viable_product) 
+		- 开发
+			- 集成开发环境 (IDE)
+			- 重构
+	- 质量控制
 		- Code Review / Peer Review
-			- Formal
-			- Lightweight
-				- Over-the-shoulder
-				- Email pass-around
-				- Pair programming
-				- Tool-assisted
-		- [Quality Measurement](https://en.wikipedia.org/wiki/Software_quality) 
-			- Robustness
-			- Efficiency
-			- Reliability
-				- Correctness
-				- Availability
-			- Security
-			- Adequacy
-			- Maintainability
-			- Learnability
-			- Readability
-			- Extensibility
-			- Testability
-			- Portability
-			- Usability
-		- Fault tolerance
+			- 正式
+			- 轻量级
+				- 即时代码审查(over-the-shoulder)
+				- 电子邮件传递(Email pass-around)
+				- 结对编程(Pair programming)
+				- 有工具支持的代码审查(tool-assisted)
+		- [质量测量指标](https://en.wikipedia.org/wiki/Software_quality) 
+			- 鲁棒性
+			- 效率
+			- 可靠性
+				- 正确性
+				- 可用性
+			- 安全性
+			- 适用性
+			- 可维护性
+			- 易学性
+			- 可读性
+			- 可扩展性
+			- 可测试性
+			- 可移植性
+			- 易用性
+		- 容错
 			- [Fail-fast](https://en.wikipedia.org/wiki/Fail-fast) 
 			- Fail-safe
 			- Fail-secure
-		- User Experience (UX)
-		- Security
+		- 用户体验(UX)
+		- 安全
 			- SSL
 			- Authentication
 			- Authorization
-	- Management
-		- Source Code Control
-			- Basics
+	- 管理
+		- 源代码控制
+			- 基础
 				- Team Foundation Server (TFS)
 				- Git
 				- Subversion (SVN)
 				- Concurrent Versions System (CVS)
 				- Mercurial
 				- Visual Source Safe ;-)
-			- Cloud Hosted
+			- 云托管
 				- GitHub
 				- Bitbucket
 				- CodePlex
 				- SourceForge ;-)
-			- Escrow
+			- 托管
 		- Bug
 			- JIRA
 			- Bugzilla
-		- Documents
+		- 文档
 			- Confluence
-	- Build
-		- Manual Compilation
-		- Build Automation
-			- Daily Build
-			- Nightly Build
-	- Testing
-		- Concepts
-			- Continuous Integration (CI)
-			- Dry Run
-		- Integration Tools
+	- 构建
+		- 手动编译
+		- 构建自动化
+			- 每日构建
+			- 夜间构建
+	- 测试
+		- 概念
+			- 持续集成(CI)
+			- 干运行
+		- 集成工具
 			- Team City
-		- Testing Levels
-			- Unit Testing
-			- Integration Test
-				- Big bang
-				- Top-down
-				- Bottom-up
-				- Sandwich
-			- Performance Testing
-				- Load Testing
-				- Stress Testing
-				- Spike Testing
-				- Configuration Testing
-			- Acceptance Testing
-				- User Acceptance Testing (UAT)
-				- Operational Acceptance Testing
-			- System Testing
-		- Testing Methods (the box approach)
-			- White-box Testing / Clear-box Testing / Glass-box Testing
-				- Unit Testing
-				- Integration Testing
-				- Regression Testing
-			- Black-box Testing
-				- Smoke Testing
-				- Sanity Testing
-				- Regression Testing
-				- Usability Testing
-			- Gray-box Testing
-	- Deployment / Release / Rollout
-		- Concepts
-			- Release Management
-			- Continuous Deployment (CD)
-		- Tools
+		- 测试级别
+			- 单元测试
+			- 集成测试
+				- 大爆炸测试
+				- 自顶而下测试
+				- 自底而上测试
+				- 三明治测试
+			- 性能测试
+				- 负载测试
+				- 压力测试
+				- 峰值测试
+				- 配置测试
+			- 验收测试
+				- 用户验收测试 (UAT)
+				- 运营验收测试
+			- 系统测试
+		- 测试方法(盒子方法)
+			- 白盒测试/透明盒测试/玻璃盒测试
+				- 单元测试
+				- 集成测试
+				- 回归测试
+			- 黑盒测试
+				- 烟雾测试
+				- 健全性测试
+				- 回归测试
+				- 易用性测试
+			- 灰盒测试
+	- 部署/发布/推出
+		- 概念
+			- 发布管理
+			- 持续部署(CD)
+		- 工具
 			- Octopus Deploy
-	- Maintenance
-	- Troubleshooting
+	- 维护
+	- 排错
 		- [Raygun](https://raygun.io) 
-	- Learning
+	- 学习
 		- [Pluralsight](http://www.pluralsight.com/) 
 		- [Code School](https://www.codeschool.com/) 
 		- [Codecademy](https://www.codecademy.com/) 
