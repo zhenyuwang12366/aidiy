@@ -3,7 +3,7 @@
 系统开发技术栈、Web前端开发技术栈、数据库技术栈、.NET技术栈！
 http://overflowstack.github.io
 
-# 本地化
+# 本土化
 English:
 https://github.com/unruledboy/WebFrontEndStack/
 
