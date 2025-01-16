@@ -10,27 +10,27 @@
 		- [Netscape ;-)](https://en.wikipedia.org/wiki/Netscape)
 	- 协议(Protocol)
 		- [HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
-			- URI
-			- Session
-			- Authentication
-			- Request
-			- Response
+			- 链接(URI)
+			- 会话(Session)
+			- 授权(Authentication)
+			- 请求(Request)
+			- 响应(Response)
 		- [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2)
-			- Compression
-			- Minification
-			- Server Push
+			- 压缩(Compression)
+			- 打包(Minification)
+			- 服务器端推送(Server Push)
 		- WebSocket
-	- The 3 Pillars
+	- Web三剑客(The 3 Pillars)
 		- HTML (HyperText Markup Language)
 		- CSS (Cascading Style Sheets)
 		- JavaScript
-	- Standards
+	- 标准(Standards)
 		- W3C
 			- HTML
 			- CSS
 			- XHTML
 			- XML
-	- Core Concepts
+	- 核心概念
 		- HTML
 			- [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 			- [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
@@ -46,20 +46,20 @@
 			- Priority
 			- Specificity
 			- Box Model
-	- Rendering Engine
+	- 渲染引擎(Rendering Engine)
 		- [Trident (IE)](https://en.wikipedia.org/wiki/Trident_(layout_engine))
 		- [Blink / prev. WebKit (Chrome)](http://www.chromium.org/blink)
 		- [Gecko (Firefox)](https://developer.mozilla.org/en-us/docs/Mozilla/Gecko)
 		- [WebKit (Safari)](http://www.webkit.org/)
 		- [Blink / prev. Presto (Opera)](http://www.chromium.org/blink)
 		- [EdgeHTML (Edge)](https://en.wikipedia.org/wiki/EdgeHTML)
-	- JavaScript Engine
+	- JavaScript引擎(JavaScript Engine)
 		- [JScript (IE8- / ASP)](https://en.wikipedia.org/wiki/JScript)
 		- [Chakra (IE9+ / Edge)](https://en.wikipedia.org/wiki/Chakra_(JScript_engine))
 		- [V8 (Chrome / Opera / Nodejs / MongoDB)](https://developers.google.com/v8/?hl=zh-CN) [[GitHub]](https://github.com/v8/v8/)
 		- [SpiderMonkey (Firefox)]( https://developer.mozilla.org/en-us/docs/Mozilla/Projects/SpiderMonkey)
 		- [JavaScriptCore (Safari)](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-	- Runtime
+	- 运行时(Runtime)
 		- Cookie
 		- Local Cache
 		- Session Storage
@@ -73,7 +73,7 @@
 			- Fonts
 			- Audios
 			- Videos
-	- Editors
+	- 编辑器(Editors)
 		- [Sublime Text](http://www.sublimetext.com/)
 		- [WebStorm](https://www.jetbrains.com/webstorm/)
 		- [Atom](https://atom.io/) [[GitHub]](https://github.com/atom/atom/)
@@ -85,37 +85,37 @@
 		- [Visual Studio Code (Linux & Mac)](https://code.visualstudio.com/) [[GitHub]](https://github.com/Microsoft/vscode)
 		- Dreamweaver ;-)
 		- FrontPage / SharePoint Designer ;-)
-	- Build Tasks
-		- Minification
-		- Compilation
-		- Concatenation
-		- Uglification
-		- Image Optimization
-		- Unit Testing
-	- Build Tools
+	- 编译任务(Build Tasks)
+		- 精简(Minification)
+		- 编译(Compilation)
+		- 合并(Concatenation)
+		- 混淆(Uglification)
+		- 图像优化(Image Optimization)
+		- 单元测试(Unit Testing)
+	- 编译工具(Build Tools)
 		- [Grunt](http://www.gruntjs.com/) [[GitHub]](https://github.com/cowboy/jquery-tiny-pubsub/)
 		- [Gulp](http://gulpjs.com/) [[GitHub]](https://github.com/gulpjs/gulp/)
 		- [Brunch](http://brunch.io/) [[GitHub]](https://github.com/brunch/brunch/)
 		- [Yeoman](http://yeoman.io/)
 		- Broccoli [[GitHub]](https://github.com/broccolijs/broccoli/)
-	- Debug
+	- 调试(Debug)
 		- [Developer Tools](https://developer.chrome.com/devtools)
 		- [Firebug](http://getfirebug.com/) [[GitHub]](https://github.com/firebug/firebug/)
-	- Base Tools
+	- 基础工具
 		- [Node.js](https://nodejs.org/) [[GitHub]](https://github.com/joyent/node/)
 		- [Phantom.js](http://phantomjs.org/) [[GitHub]](https://github.com/ariya/phantomjs/)
 		- [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
-	- Quality
+	- 质量控制
 		- [JSLint](http://www.jslint.com/) [[GitHub]](https://github.com/douglascrockford/JSLint/)
 		- [JSHint](http://jshint.com/) [[GitHub]](https://github.com/jshint/jshint/)
 		- [jscs](http://jscs.info/) [[GitHub]](https://github.com/jscs-dev/node-jscs)
 		- [Closure Linter](https://developers.google.com/closure/utilities/)
-	- Package
+	- 包管理
 		- [npm](https://www.npmjs.com/) [[GitHub]](https://github.com/npm/npm/)
 		- [Bower](http://bower.io/) [[GitHub]](https://github.com/bower/bower/)
 		- [yarn](https://yarnpkg.com/) [[GitHub]](https://github.com/yarnpkg/yarn/)
-	- Test
-		- Tools
+	- 测试(Test)
+		- 工具
 			- [QUnit](https://qunitjs.com/) [[GitHub]](https://github.com/jquery/qunit/)
 			- [Jasmine](http://jasmine.github.io/) [[GitHub]](https://github.com/jasmine/jasmine/)
 			- [Mocha](https://mochajs.org/) [[GitHub]](https://github.com/mochajs/mocha/)
@@ -129,7 +129,7 @@
 			- tape [[GitHub]](http://github.com/substack/tape)
 			- [nightmare](http://nightmarejs.org/) [[GitHub]](https://github.com/segmentio/nightmare)
 			- [Enzyme](http://airbnb.io/enzyme/) [[GitHub]](https://github.com/airbnb/enzyme)
-		- Composite
+		- 在线工具
 			- [Sauce Labs](https://saucelabs.com/)
 			- [Browser Stack](https://www.browserstack.com/)
 			- [Browser Shots](http://browsershots.org/)
@@ -138,13 +138,13 @@
 			- [Cross Browser Testing](https://crossbrowsertesting.com/)
 			- [Browsera](http://www.browsera.com/)
 			- [SortSite](http://www.powermapper.com/products/sortsite/checks/browser-compatibility/)
-	- Frameworks / Libraries
-		- JavaScript base library
+	- 库/框架(Frameworks / Libraries)
+		- JavaScript基础库(base library)
 			- [jQuery](https://jquery.com/) [[GitHub]](https://github.com/jquery/jquery/)
 			- [Prototype](http://prototypejs.org/) [[GitHub]](https://github.com/sstephenson/prototype/)
 			- [Zepto](http://zeptojs.com/) [[GitHub]](https://github.com/madrobby/zepto/)
 			- [MooTool](http://mootools.net/) [[GitHub]](https://github.com/mootools/mootools-core/)
-		- Modular
+		- 模块化(Modular)
 			- ES6 Module
 			- CommonJS
 				- [webpack](http://webpack.github.io/) [[GitHub]](https://github.com/webpack/webpack/)
@@ -153,7 +153,7 @@
 				- [RequireJS](http://requirejs.org/) [[GitHub]](https://github.com/jrburke/requirejs/)
 			- UMD
 				- umd [[GitHub]](https://github.com/umdjs/umd/)
-		- JavaScript Framework
+		- JavaScript框架
 			- [AngularJS](https://angularjs.org/) [[GitHub]](https://github.com/angular/angular.js/)
 			- [Backbone](http://backbonejs.org/) [[GitHub]](https://github.com/jashkenas/backbone/)
 			- [Knockout](http://knockoutjs.com/) [[GitHub]](https://github.com/SteveSanderson/knockout/)
@@ -163,7 +163,7 @@
 			- [Deft.js](http://deftjs.org/) [[GitHub]](https://github.com/deftjs/DeftJS/)
 			- [Vue](http://vuejs.org/) [[GitHub]](https://github.com/yyx990803/vue/)
 			- [Riot](http://riotjs.com/) [[GitHub]](https://github.com/riot/riot)
-		- UI framework
+		- UI框架
 			- [Bootstrap](http://getbootstrap.com/) [[GitHub]](https://github.com/twbs/bootstrap/)
 			- [Semantic UI](http://semantic-ui.com/) [[GitHub]](https://github.com/Semantic-Org/Semantic-UI/)
 			- [Foundation](http://foundation.zurb.com/) [[GitHub]](https://github.com/zurb/foundation/)
@@ -175,7 +175,7 @@
 		- WebSocket
 			- [Socket.io](http://socket.io/) [[GitHub]](https://github.com/Automattic/socket.io/)
 			- web-socket-js [[GitHub]](https://github.com/gimite/web-socket-js/)
-		- Data Visualization
+		- 数据可视化(Data Visualization)
 			- [D3](http://d3js.org/) [[GitHub]](https://github.com/mbostock/d3/wiki/Gallery/)
 			- [Echarts](http://echarts.baidu.com) [[GitHub]](https://github.com/ecomfe/esl/)
 			- [HighCharts](http://www.highcharts.com/) [[GitHub]](https://github.com/highslide-software/highcharts.com/)
@@ -185,12 +185,12 @@
 			- [Three.js](http://threejs.org/) [[GitHub]](https://github.com/mrdoob/three.js/)
 			- [Babylon.js](http://www.babylonjs.com/) [[GitHub]](https://github.com/BabylonJS/Babylon.js/)
 			- [Pixi.js](http://www.pixijs.com/) [[GitHub]](https://github.com/GoodBoyDigital/pixi.js/)
-		- CSS3 Animation
+		- CSS3动画(CSS3 Animation)
 			- [Animate.css](https://daneden.github.io/animate.css/) [[GitHub]](https://github.com/daneden/animate.css/)
 			- [bounce.js](http://bouncejs.com/) [[GitHub]](https://github.com/tictail/bounce.js/)
 			- [Effeckt.css](https://h5bp.github.io/Effeckt.css/) [[GitHub]](https://github.com/h5bp/Effeckt.css/)
 			- [move.js](https://visionmedia.github.io/move.js/) [[GitHub]](https://github.com/visionmedia/move.js/)
-		- Flow Controller
+		- 流程控制(Flow Controller)
 			- ES6
 				- Promise
 				- Generator
@@ -203,19 +203,19 @@
 				- Bluebird [[GitHub]](https://github.com/petkaantonov/bluebird/)
 				- q [[GitHub]](https://github.com/kriskowal/q/)
 				- when.js [[GitHub]](https://github.com/cujojs/when/)
-		- Functional
+		- 函数式编程(Functional)
 			- [bacon.js](http://baconjs.github.io/) [[GitHub]](https://github.com/baconjs/bacon.js/)
 			- [immutable.js](https://facebook.github.io/immutable-js/) [[GitHub]](https://github.com/facebook/immutable-js/)
 			- [ramda](http://ramdajs.com/) [[GitHub]](http://github.com/ramda/ramda)
 			- [underscore.js](http://underscorejs.org/) [[GitHub]](https://github.com/jashkenas/underscore)
 			- [lodash](https://lodash.com/) [[GitHub]](https://github.com/lodash/lodash)
 			- [ReactiveX](http://reactivex.io/) [[GitHub]](https://github.com/Reactive-Extensions/RxJS)
-		- Mobile UI
+		- 手机UI框架(Mobile UI)
 			- [jQuery Mobile](https://jquerymobile.com/) [[GitHub]](https://github.com/jquery/jquery-mobile/)
 			- [Jo](http://joapp.com/) [[GitHub]](https://github.com/davebalmer/jo/)
 			- [Dojo Mobile](https://dojotoolkit.org/reference-guide/1.10/dojox/mobile.html)
 			- [Lungo](http://lungo.tapquo.com/) [[GitHub]](https://github.com/tapquo/Lungo.js/)
-	- CSS Pre-processors
+	- CSS预处理器(CSS Pre-processors)
 		- LESS
 			- [LESS](http://lesscss.org/) [[GitHub]](https://github.com/less/less.js/)
 			- [Hat](http://lesshat.madebysource.com/) [[GitHub]](https://github.com/csshat/lesshat/)
@@ -225,9 +225,9 @@
 			- [Gumby](http://www.gumbyframework.com/) [[GitHub]](https://github.com/GumbyFramework/Gumby/)
 		- Stylus
 			- nib [[GitHub]](https://github.com/tj/nib/)
-	- Future Standards
+	- 未来标准(Future Standards)
 		- [babel](https://babeljs.io/) [[GitHub]](https://github.com/babel/babel)
-	- Template
+	- 模板引擎(Template)
 		- [Handlebars](http://handlebarsjs.com/) [[GitHub]](https://github.com/wycats/handlebars.js/)
 		- [Haml](http://haml.info/) [[GitHub]](https://github.com/haml/haml/)
 		- [Slim](http://slim-lang.com/) [[GitHub]](https://github.com/slim-template/slim/)
@@ -235,30 +235,32 @@
 		- [Ejs](http://www.embeddedjs.com/)
 		- [Spacebars](http://meteorcapture.com/spacebars/)
 		- [mustache](http://mustache.github.io/) [[GitHub]](https://github.com/janl/mustache.js/)
-	- Modernisation
+	- 统一化(Modernisation)
 		- [Normalize](http://necolas.github.io/normalize.css/) [[GitHub]](https://github.com/necolas/normalize.css/)
 		- Reset
-	- Best Practices
+	- 最佳实践(Best Practices)
 		- [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)
 		- Responsiveness
 		- [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
-	- Security
+	- 安全(Security)
 		- Sandbox
 		- [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
 		- [CORS](http://www.w3.org/TR/cors/)
-	- Intermediate Languages
+	- 中间语言(Intermediate Languages)
 		- [CoffeeScript](http://coffeescript.org/) [[GitHub]](https://github.com/jashkenas/coffeescript/)
 		- [TypeScript](http://www.typescriptlang.org/) [[GitHub]](https://github.com/Microsoft/TypeScript/)
 		- ClojureScript [[GitHub]](https://github.com/clojure/clojurescript/)
 		- [JSX (Facebook)](http://facebook.github.io/react/docs/jsx-in-depth.html)
-	- Mobile Application Development
+	- 移动应用开发(Mobile Application Development)
 		- [PhoneGap / Cordova](https://cordova.apache.org/) [[GitHub]](https://github.com/apache/cordova-android/)
 		- [MUI](http://dev.dcloud.net.cn/mui/) [[GitHub]](https://github.com/dcloudio/mui/)
 		- [React Native](https://facebook.github.io/react-native/) [[GitHub]](https://github.com/facebook/react-native/)
 		- [Ionic](http://ionicframework.com/) [[GitHub]](https://github.com/driftyco/ionic/)
-	- Desktop Application Development
+	- 桌面应用开发(Desktop Application Development)
 		- [Electron](http://electron.atom.io/) [[GitHub]](https://github.com/atom/electron)
 		- [NW.js](http://nwjs.io/) [[GitHub]](https://github.com/nwjs/nw.js)
+
+*来自：https://github.com/unruledboy/WebFrontEndStack*
 
 
 
