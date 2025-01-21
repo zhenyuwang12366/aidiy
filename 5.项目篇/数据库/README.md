@@ -20,7 +20,7 @@ http://www.cnblogs.com/unruledboy/p/DatabaseStack.html
 # 数据库技术栈
 比较全面的数据库技术栈，包括MS SQL Server、Azure等。
 
-![Image of The Database Stack](preview.zh-cn.png)
+![preview zh-cn](https://github.com/user-attachments/assets/0dc0e408-f65b-4a26-acdf-4c460187ae04)
 
 # 为什么？
 大家是否想过：
