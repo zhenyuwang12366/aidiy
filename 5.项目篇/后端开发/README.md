@@ -1,4 +1,5 @@
-*来自https://github.com/geekibli/java-study/tree/master*
+*来自https://github.com/geekibli/java-study/tree/master*  
+本文主要介绍的是JAVA语言的后端开发技术栈，其他语言可以参考[各种语言的后端技术栈](https://github.com/Discrete-Mathematics/ai-self-learning/blob/main/5.%E9%A1%B9%E7%9B%AE%E7%AF%87/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/%E5%90%84%E7%A7%8D%E8%AF%AD%E8%A8%80%E7%9A%84%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E6%A0%88.md)
 # 前言
 
 📒 📒 维护此成长路线的原因很简单，如下两点👇
