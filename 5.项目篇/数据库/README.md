@@ -1,3 +1,4 @@
+*来自https://github.com/unruledboy/DatabaseStack/blob/master/README.zh-cn.md*
 # SQL Monitor
 想优化SQL Server的功能吗？看看SQL Monitor吧！它可以管理SQL Server进程和作业、分析系统、版本控制、建议性能改进等。
 
