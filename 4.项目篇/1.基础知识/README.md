@@ -69,3 +69,19 @@
 
 推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
 　　　　　[各种距离 欧式距离、曼哈顿距离、切比雪夫距离、闵可夫斯基距离、标准欧氏距离、马氏距离、余弦距离、汉明距离、杰拉德距离、相关距离、信息熵](https://www.cnblogs.com/AlvinSui/p/8931074.html)
+# *10.硬件*
+主要内容：计算机、内存、存储器、CPU、GPU和其他加速卡、网络和总线  
+
+推荐资料：[【动手学深度学习】12.4硬件](https://zh.d2l.ai/chapter_computational-performance/hardware.html#id16)  
+# *11.异步计算*
+前置知识：Python  
+
+主要内容：通过后端异步处理、障碍器与阻塞器、改进计算  
+
+推荐资料：[【动手学深度学习】12.2异步计算](https://zh.d2l.ai/chapter_computational-performance/async-computation.html)   
+# *12.自动并行*
+前置知识：异步计算  
+
+主要内容：基于GPU的并行计算、并行计算与通信  
+
+推荐资料：[【动手学深度学习】12.3自动并行](https://zh.d2l.ai/chapter_computational-performance/auto-parallelism.html)  
