@@ -85,3 +85,14 @@
 主要内容：基于GPU的并行计算、并行计算与通信  
 
 推荐资料：[【动手学深度学习】12.3自动并行](https://zh.d2l.ai/chapter_computational-performance/auto-parallelism.html)  
+# *13.多GPU训练*
+主要内容：数据并行性、网络初始化、数据同步、数据分发、训练  
+
+推荐资料：[【动手学深度学习】12.5多GPU训练](https://zh.d2l.ai/chapter_computational-performance/multiple-gpus.html)  
+　　　　　[【动手学深度学习】12.6多GPU的简洁实现](https://zh.d2l.ai/chapter_computational-performance/multiple-gpus-concise.html)  
+# *14.参数服务器*
+前置知识：多GPU训练  
+
+主要内容：数据并行训练、环同步、多机训练、键值储存  
+
+推荐资料：[【动手学深度学习】12.7参数服务器](https://zh.d2l.ai/chapter_computational-performance/parameterserver.html)
