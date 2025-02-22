@@ -5,10 +5,13 @@
 
 推荐资料：[神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network)  
          [零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)  
+　　　　　[4. 多层感知机](https://www.zybuluo.com/hanbingtao/note/433855)
 
 # 2.卷积神经网络
 前置知识：神经网络  
 
 主要内容：输入层、卷积计算层、激励层、池化层、全连接层
+
+推荐资料：
 
 
