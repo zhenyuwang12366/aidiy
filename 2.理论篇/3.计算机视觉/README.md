@@ -21,10 +21,24 @@
 # 3.现代卷积神经网络
 前置知识：卷积神经网络  
 
-主要内容：AlexNet、VGG、NiN、GoogLeNet、ResNet、DenseNet、SSD、R-CNN系列、YOLO系列
+主要内容：AlexNet、VGG、NiN、GoogLeNet、ResNet、DenseNet、SSD、R-CNN、Fast R-CNN、Faster RCNN、YOLO系列  
 
 推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)   
 　　　　　[7. 现代卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html)  
 
 # 4.循环神经网络
-前置知识：
+前置知识：神经网络  
+
+主要内容：循环神经网络、双向循环神经网络、深度循环神经网络、BPTT算法  
+
+推荐资料：[循环神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN#2-%E5%85%B6%E5%AE%83%E7%B1%BB%E5%9E%8B%E7%9A%84rnn)  
+　　　　　[零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)  
+　　　　　[8. 循环神经网络](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html)
+
+# 5.现代循环神经网络
+前置知识：循环神经网络  
+
+主要内容：门控循环单元、长短期记忆网络、编码器-解码器架构、序列到序列模型  
+
+推荐资料：[门控循环单元](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU)  
+　　　　　[]()
