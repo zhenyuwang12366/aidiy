@@ -21,7 +21,7 @@
 # 3.现代卷积神经网络
 前置知识：卷积神经网络  
 
-主要内容：
+主要内容：AlexNet、VGG、NiN、GoogLeNet、ResNet、DenseNet、SSD、R-CNN系列、YOLO系列
 
 推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)   
 　　　　　[7. 现代卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html)  
