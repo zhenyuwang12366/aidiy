@@ -27,3 +27,4 @@
 　　　　　[7. 现代卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html)  
 
 # 4.循环神经网络
+前置知识：
