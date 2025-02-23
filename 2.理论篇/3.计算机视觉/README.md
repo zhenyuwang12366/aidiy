@@ -18,5 +18,10 @@
 　　　　　[零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/476663)  
 　　　　　[6. 卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/index.html)
 　　　　　
+# 3.现代卷积神经网络
+前置知识：卷积神经网络  
 
+主要内容：
+
+推荐资料：[7. 现代卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html)  
 
