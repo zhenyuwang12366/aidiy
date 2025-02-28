@@ -41,4 +41,19 @@
 主要内容：门控循环单元、长短期记忆网络、编码器-解码器架构、序列到序列模型  
 
 推荐资料：[门控循环单元](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.1%20GRU)  
-　　　　　[]()
+　　　　　[长短期记忆](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.2%20LSTM)  
+　　　　　[零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)  
+　　　　　[序列到序列模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.5%20seq2seq)  
+　　　　　[9. 现代循环神经网络](https://zh-v2.d2l.ai/chapter_recurrent-modern/index.html)
+# *6.递归神经网络*
+前置知识：循环神经网络  
+
+主要内容：递归神经网络、前向计算、训练  
+
+推荐资料：[零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
+# 7.注意力机制
+前置知识：现代循环神经网络  
+
+主要内容：注意力提示、Nadaraya-Watson 核回归、注意力评分函数、Bahdanau 注意力、多头注意力、自注意力和位置编码、Transformer
+
+推荐资料：[]()
