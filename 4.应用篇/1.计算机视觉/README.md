@@ -39,16 +39,8 @@
 推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
 　　　　　[13.8. 区域卷积神经网络（R-CNN）系列](https://zh-v2.d2l.ai/chapter_computer-vision/rcnn.html#fast-r-cnn)
 # 10.YOLO
-前置知识：R-CNN系列  
+前置知识：R-CNN系列、*注意力机制*  
 
-主要内容：
-
-
-
-
-
-
-
-
-
-
+推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
+　　　　　[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
+　　　　　[YOLOv12论文最新解析：强势来袭，超越YOLO11，以注意力为中心的实时对象检测器，YOLOv12: Attention-Centric Real-Time Object Detectors](https://zhuanlan.zhihu.com/p/24876772668)  
