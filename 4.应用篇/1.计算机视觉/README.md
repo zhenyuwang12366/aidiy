@@ -1,9 +1,9 @@
 # 1.LeNet
-前置知识：  
+前置知识：2.理论篇-卷积神经网络、3.编程篇-计算机视觉  
 
 推荐资料：[6.6.卷积神经网络（LeNet）](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/lenet.html)  
 # 2.AlexNet
-前置知识：LeNet  
+前置知识：LeNet、2.理论篇-现代卷积神经网络  
 
 推荐资料：[7.1.深度卷积神经网络（AlexNet）](https://zh-v2.d2l.ai/chapter_convolutional-modern/alexnet.html)  
 # 3.VGG
@@ -19,7 +19,7 @@
 
 推荐资料：[7.4. 含并行连结的网络（GoogLeNet）](https://zh-v2.d2l.ai/chapter_convolutional-modern/googlenet.html)  
 # 6.ResNet
-前置知识：批量规范化、NiN  
+前置知识：NiN、2.理论篇-计算机视觉  
 
 推荐资料：[7.6.残差网络（ResNet）](https://zh-v2.d2l.ai/chapter_convolutional-modern/resnet.html)
 # 7.DenseNet
@@ -27,7 +27,7 @@
 
 推荐资料：[7.7. 稠密连接网络（DenseNet）](https://zh-v2.d2l.ai/chapter_convolutional-modern/densenet.html)
 # 8.SSD
-前置知识：
+前置知识：2.理论篇-计算机视觉
 
 推荐资料：[13.7. 单发多框检测（SSD）](https://zh-v2.d2l.ai/chapter_computer-vision/ssd.html)
 # 9.R-CNN系列
@@ -38,11 +38,12 @@
 推荐资料：[R-CNN源码](https://github.com/rbgirshick/rcnn)  
 　　　　　[SPP net详解](https://github.com/ShaoQiBNU/CV-SPPnet)  
 　　　　　[Fast R-CNN源码](https://github.com/rbgirshick/fast-rcnn)  
-　　　　　[Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)  
-　　　　　[]()
+　　　　　[Faster R-CNN源码](https://github.com/rbgirshick/py-faster-rcnn)  
+　　　　　[Mask R-CNN](https://github.com/matterport/Mask_RCNN)
 # 10.YOLO
 前置知识：R-CNN系列、*注意力机制*  
 
-推荐资料：[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
-　　　　　[YOLOv12论文最新解析：强势来袭，超越YOLO11，以注意力为中心的实时对象检测器，YOLOv12: Attention-Centric Real-Time Object Detectors](https://zhuanlan.zhihu.com/p/24876772668)  
-  　　　　[YOLOv12源码](https://github.com/sunsmarterjie/yolov12)
+源码：[YOLOv3](https://pjreddie.com/darknet/yolo/)  
+　　　[YOLOv4](https://github.com/AlexeyAB/darknet)  
+　　　[
+  　　[YOLOv12](https://github.com/sunsmarterjie/yolov12)
