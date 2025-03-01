@@ -51,5 +51,8 @@
 　　　[YOLOv7](https://github.com/WongKinYiu/yolov7)  
 　　　[YOLOv9](https://github.com/WongKinYiu/yolov9)  
 　　　[YOLOv10](https://github.com/THU-MIG/yolov10)  
+# 11.视觉Transformer
+前置知识：2.理论篇-注意力机制、*YOLO*
+源码：[Vision Transformer](https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/vision_transformer.py)  
 　　　*[YOLOv11](https://github.com/ultralytics/ultralytics)*  
 　　　*[YOLOv12](https://github.com/sunsmarterjie/yolov12)*
