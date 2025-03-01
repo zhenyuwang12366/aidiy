@@ -74,3 +74,4 @@
 ](https://blog.csdn.net/qq_36104364/article/details/133101952)  
 　　　　　[识别一切（RAM）论文详细阅读：Recognize Anything: A Strong Image Tagging Model](https://zhuanlan.zhihu.com/p/680618555)  
 　　　　　[Track Anything: Segment Anything Meets Videos（追踪视频万物）](https://zhuanlan.zhihu.com/p/626020893)
+# 10.多模态视觉大模型
