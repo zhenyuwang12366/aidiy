@@ -68,10 +68,10 @@
 # 9.视觉大模型
 前置知识：计算机视觉  
 
-主要内容：Segment Anything、Recognize Anything、Track Anything  
+主要内容：Segment Anything、Recognize Anything、Track Anything、多模态视觉大模型  
 
 推荐资料：[【持续更新】Segment Anything Model （SAM）分割一切大模型相关论文和项目介绍
 ](https://blog.csdn.net/qq_36104364/article/details/133101952)  
 　　　　　[识别一切（RAM）论文详细阅读：Recognize Anything: A Strong Image Tagging Model](https://zhuanlan.zhihu.com/p/680618555)  
-　　　　　[Track Anything: Segment Anything Meets Videos（追踪视频万物）](https://zhuanlan.zhihu.com/p/626020893)
-# 10.多模态视觉大模型
+　　　　　[Track Anything: Segment Anything Meets Videos（追踪视频万物）](https://zhuanlan.zhihu.com/p/626020893)  
+　　　　　[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/pdf/2312.08914)
