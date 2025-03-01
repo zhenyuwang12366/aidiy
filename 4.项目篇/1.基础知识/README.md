@@ -28,7 +28,13 @@
 　　　　　[Github学生认证及学生包保姆级申请指南](https://zhuanlan.zhihu.com/p/578964972)  
 　　　　　[还不会使用 GitHub ？ GitHub 教程来了！万字图文详解](https://zhuanlan.zhihu.com/p/369486197)   
 　　　　　[GitHub 入门文档](https://docs.github.com/zh/get-started)  
-# 5.Python基础语法
+# 4.Hugging Face
+前置知识：科学上网  
+
+主要内容：  
+
+推荐资料：  
+# 6.Python基础语法
 前置知识：Anaconda
 
 主要内容：VSCode的使用/Pycharm社区版的使用/*Pycharm专业版的破解与使用*（三选一）、Python文件与项目的创建、注释、数据类型、运算符、条件语句、循环语句、字符串、列表，元组、字典、函数、文件操作、异常、面向对象
@@ -36,61 +42,61 @@
 推荐资料：[Python 基础教程](https://www.runoob.com/python/python-object.html)  
 　　　　　[（2021最新菜鸟教程）从计算机构成开始讲的Python基础语法，我家楼下保安都学会了！（附带课件源码）](https://www.bilibili.com/video/BV1Y64y1r7Pu/?spm_id_from=333.999.0.0)   
 　　　　　[黑马程序员python教程，8天python从入门到精通，学python看这套就够了](https://www.bilibili.com/video/BV1qW4y1a7fU/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)
-# 6.JSON
+# 7.JSON
 前置知识：至少一门编程语言
 
 主要内容：数据类型、用JSON表示树形结构的数据
 
 推荐资料：[Json 详解，5分钟学会](https://www.bilibili.com/video/BV1We411y7wn/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)  
 　　　　　[带你快速了解Json以及Json的用法](https://www.bilibili.com/video/BV1954y1p7s6/?spm_id_from=333.337.search-card.all.click&vd_source=8f7be58fae99de36e73582d589f00ca1)
-# 7.YAML
+# 8.YAML
 前置知识：至少一门编程语言
 
 主要内容：数据类型、用YAML表示树形结构的数据
 
 推荐资料：[YAML 入门教程](https://www.runoob.com/w3cnote/yaml-intro.html)
-# *7.PowerShell*
+# *9.PowerShell*
 前置知识：CMD、至少一门编程语言
 
 主要内容：PowerShell的打开、快捷键、查看帮助、切换磁盘、目录操作、文件操作、环境变量、变量、脚本的调用、数学运算符、条件语句、循环语句、数组、函数、定义文本、字符串
 
 推荐资料：[PowerShell入门教程 语法、环境](https://zhuanlan.zhihu.com/p/353196872)
-# *8.Git*
+# *10.Git*
 前置知识：GitHub
 
 主要内容：Git的安装、克隆仓库、创建新分支、工作目录、暂存文件、提交更改、拉取最新更改、推送更改、创建 Pull Request、合并更改、删除分支
 
 推荐资料：[Git - CS自学指南](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/)  
 　　　　　[Git 教程](https://www.runoob.com/git/git-tutorial.html)  
-# 9.评估方法
+# 11.评估方法
 前置知识：中学数学
 
 主要内容：**混淆矩阵**、**准确率**、**精确率**、**召回率**、**F1值**、**ROC曲线**、超参数调优、**过拟合**、**欠拟合**
 
 推荐资料：[ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95#31-%E5%87%86%E7%A1%AE%E7%8E%87accuracy)  
 　　　　　[各种距离 欧式距离、曼哈顿距离、切比雪夫距离、闵可夫斯基距离、标准欧氏距离、马氏距离、余弦距离、汉明距离、杰拉德距离、相关距离、信息熵](https://www.cnblogs.com/AlvinSui/p/8931074.html)
-# *10.硬件*
+# *12.硬件*
 主要内容：计算机、内存、存储器、CPU、GPU和其他加速卡、网络和总线  
 
 推荐资料：[【动手学深度学习】12.4硬件](https://zh.d2l.ai/chapter_computational-performance/hardware.html#id16)  
-# *11.异步计算*
+# *13.异步计算*
 前置知识：Python  
 
 主要内容：通过后端异步处理、障碍器与阻塞器、改进计算  
 
 推荐资料：[【动手学深度学习】12.2异步计算](https://zh.d2l.ai/chapter_computational-performance/async-computation.html)   
-# *12.自动并行*
+# *14.自动并行*
 前置知识：异步计算  
 
 主要内容：基于GPU的并行计算、并行计算与通信  
 
 推荐资料：[【动手学深度学习】12.3自动并行](https://zh.d2l.ai/chapter_computational-performance/auto-parallelism.html)  
-# *13.多GPU训练*
+# *15.多GPU训练*
 主要内容：数据并行性、网络初始化、数据同步、数据分发、训练  
 
 推荐资料：[【动手学深度学习】12.5多GPU训练](https://zh.d2l.ai/chapter_computational-performance/multiple-gpus.html)  
 　　　　　[【动手学深度学习】12.6多GPU的简洁实现](https://zh.d2l.ai/chapter_computational-performance/multiple-gpus-concise.html)  
-# *14.参数服务器*
+# *16.参数服务器*
 前置知识：多GPU训练  
 
 主要内容：数据并行训练、环同步、多机训练、键值储存  
