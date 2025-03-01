@@ -11,7 +11,7 @@
 # 2.卷积神经网络
 前置知识：神经网络  
 
-主要内容：输入层、卷积计算层、激励层、池化层、全连接层  
+主要内容：输入层、卷积计算层、激励层、池化层、全连接层、LeNet  
 
 推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
 　　　　　[零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/476663)  
