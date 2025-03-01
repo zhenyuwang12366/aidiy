@@ -29,17 +29,20 @@
 # 8.SSD
 前置知识：
 
-推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
-　　　　　[13.7. 单发多框检测（SSD）](https://zh-v2.d2l.ai/chapter_computer-vision/ssd.html)
+推荐资料：[13.7. 单发多框检测（SSD）](https://zh-v2.d2l.ai/chapter_computer-vision/ssd.html)
 # 9.R-CNN系列
 前置知识：SSD  
 
 主要内容：R-CNN、SPP Net、Fast R-CNN、Faster R-CNN  
 
-推荐资料：[13.8. 区域卷积神经网络（R-CNN）系列](https://zh-v2.d2l.ai/chapter_computer-vision/rcnn.html#fast-r-cnn)
+推荐资料：[R-CNN源码](https://github.com/rbgirshick/rcnn)  
+　　　　　[SPP net详解](https://github.com/ShaoQiBNU/CV-SPPnet)  
+　　　　　[Fast R-CNN源码](https://github.com/rbgirshick/fast-rcnn)  
+　　　　　[Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)  
+　　　　　[]()
 # 10.YOLO
 前置知识：R-CNN系列、*注意力机制*  
 
-推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
-　　　　　[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
+推荐资料：[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
 　　　　　[YOLOv12论文最新解析：强势来袭，超越YOLO11，以注意力为中心的实时对象检测器，YOLOv12: Attention-Centric Real-Time Object Detectors](https://zhuanlan.zhihu.com/p/24876772668)  
+  　　　　[YOLOv12源码](https://github.com/sunsmarterjie/yolov12)
