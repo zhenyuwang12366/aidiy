@@ -33,17 +33,23 @@
 # 9.R-CNN系列
 前置知识：SSD  
 
-主要内容：R-CNN、SPP Net、Fast R-CNN、Faster R-CNN  
+主要内容：R-CNN、SPP Net、Fast R-CNN、Faster R-CNN、Mask R-CNN  
 
 推荐资料：[R-CNN源码](https://github.com/rbgirshick/rcnn)  
 　　　　　[SPP net详解](https://github.com/ShaoQiBNU/CV-SPPnet)  
 　　　　　[Fast R-CNN源码](https://github.com/rbgirshick/fast-rcnn)  
 　　　　　[Faster R-CNN源码](https://github.com/rbgirshick/py-faster-rcnn)  
-　　　　　[Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+　　　　　[Mask R-CNN源码](https://github.com/matterport/Mask_RCNN)
 # 10.YOLO
-前置知识：R-CNN系列、*注意力机制*  
+前置知识：R-CNN系列、*2.理论篇-注意力机制*  
 
 源码：[YOLOv3](https://pjreddie.com/darknet/yolo/)  
 　　　[YOLOv4](https://github.com/AlexeyAB/darknet)  
-　　　[
-  　　[YOLOv12](https://github.com/sunsmarterjie/yolov12)
+　　　[YOLOv5](https://github.com/ultralytics/yolov5)  
+　　　[YOLO X](https://github.com/Megvii-BaseDetection/YOLOX?tab=readme-ov-file)  
+　　　[YOLOv6](https://github.com/meituan/YOLOv6/)  
+　　　[YOLOv7](https://github.com/WongKinYiu/yolov7)  
+　　　[YOLOv9](https://github.com/WongKinYiu/yolov9)  
+　　　[YOLOv10](https://github.com/THU-MIG/yolov10)  
+　　　*[YOLOv11](https://github.com/ultralytics/ultralytics)*  
+　　　*[YOLOv12](https://github.com/sunsmarterjie/yolov12)*
