@@ -1,7 +1,7 @@
 # 1.神经网络
 前置知识：线性回归算法  
 
-主要内容：神经元、感知器、输入层、隐藏层、输出层、激活函数、正向传播、反向传播、随机梯度下降法  
+主要内容：神经元、感知器、输入层、隐藏层、输出层、激活函数、正向传播、反向传播、随机梯度下降法、全连接神经网络  
 
 推荐资料：[神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/10.%20Neural%20Network)  
 　　　　　[零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)  
@@ -58,4 +58,19 @@
 # 8.计算机视觉
 前置知识：现代卷积神经网络、注意力机制  
 
-主要内容：SSD、R-CNN、Fast R-CNN、Faster RCNN、YOLO系列 
+主要内容：图像识别、图像定位、图像分割、图像增广、微调、目标检测、边界框、锚框、多尺度目标检测、SSD、R-CNN、Fast R-CNN、Faster RCNN、语义分割、转置卷积、全卷积网络、风格迁移、YOLO、ViT 
+
+推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
+　　　　　[13. 计算机视觉](https://zh-v2.d2l.ai/chapter_computer-vision/index.html)  
+　　　　　[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
+　　　　　[【深度学习】详解 Vision Transformer (ViT)](https://blog.csdn.net/qq_39478403/article/details/118704747)  
+　　　　　[YOLOv12论文最新解析：强势来袭，超越YOLO11，以注意力为中心的实时对象检测器，YOLOv12: Attention-Centric Real-Time Object Detectors](https://zhuanlan.zhihu.com/p/24876772668)
+# 9.视觉大模型
+前置知识：计算机视觉  
+
+主要内容：Segment Anything、Recognize Anything、Track Anything  
+
+推荐资料：[【持续更新】Segment Anything Model （SAM）分割一切大模型相关论文和项目介绍
+](https://blog.csdn.net/qq_36104364/article/details/133101952)  
+　　　　　[识别一切（RAM）论文详细阅读：Recognize Anything: A Strong Image Tagging Model](https://zhuanlan.zhihu.com/p/680618555)  
+　　　　　[Track Anything: Segment Anything Meets Videos（追踪视频万物）](https://zhuanlan.zhihu.com/p/626020893)
