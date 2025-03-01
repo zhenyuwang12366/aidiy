@@ -30,18 +30,28 @@
 前置知识：2.理论篇-计算机视觉
 
 推荐资料：[13.7. 单发多框检测（SSD）](https://zh-v2.d2l.ai/chapter_computer-vision/ssd.html)
-# 9.R-CNN系列
+# 9.R-CNN
 前置知识：SSD  
 
-主要内容：R-CNN、SPP Net、Fast R-CNN、Faster R-CNN、Mask R-CNN  
+源码：[R-CNN](https://github.com/rbgirshick/rcnn)  
+# 10.SPP Net
+前置知识：R-CNN
 
-推荐资料：[R-CNN源码](https://github.com/rbgirshick/rcnn)  
-　　　　　[SPP net详解](https://github.com/ShaoQiBNU/CV-SPPnet)  
-　　　　　[Fast R-CNN源码](https://github.com/rbgirshick/fast-rcnn)  
-　　　　　[Faster R-CNN源码](https://github.com/rbgirshick/py-faster-rcnn)  
-　　　　　[Mask R-CNN源码](https://github.com/matterport/Mask_RCNN)
-# 10.YOLO
-前置知识：R-CNN系列、*2.理论篇-注意力机制*  
+推荐资料：[SPP net详解](https://github.com/ShaoQiBNU/CV-SPPnet)  
+# 11.Fast R-CNN
+前置知识：SPP Net  
+
+源码：[Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)   
+# 12.Faster R-CNN
+前置知识：Fast R-CNN  
+
+源码：[Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)  
+# 13.Mask R-CNN  
+前置知识：Faster R-CNN
+
+源码：[Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+# 14.YOLO
+前置知识：Faster R-CNN
 
 源码：[YOLOv3](https://pjreddie.com/darknet/yolo/)  
 　　　[YOLOv4](https://github.com/AlexeyAB/darknet)  
@@ -51,9 +61,23 @@
 　　　[YOLOv7](https://github.com/WongKinYiu/yolov7)  
 　　　[YOLOv9](https://github.com/WongKinYiu/yolov9)  
 　　　[YOLOv10](https://github.com/THU-MIG/yolov10)  
-# 11.视觉Transformer
+# 15.视觉Transformer
 前置知识：2.理论篇-注意力机制、*YOLO*  
+
+主要内容：Vision Transformer、*YOLOv11*、*YOLOv12*
 
 源码：[Vision Transformer](https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/vision_transformer.py)  
 　　　*[YOLOv11](https://github.com/ultralytics/ultralytics)*  
 　　　*[YOLOv12](https://github.com/sunsmarterjie/yolov12)*
+# 16.segment anything
+前置知识：视觉Transformer  
+
+源码：[segment anything](https://github.com/facebookresearch/segment-anything)  
+# 17.recognize anything
+前置知识：视觉Transformer  
+
+源码：[recognize anything](https://github.com/xinyu1205/recognize-anything)  
+# 18.track anything  
+前置知识:视觉Tranformer  
+
+源码：[track anything](https://github.com/gaomingqi/track-anything)
