@@ -54,7 +54,8 @@
 
 推荐资料：[注意力机制](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention)  
 　　　　　[Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer)  
-　　　　　[10. 注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)
+　　　　　[10. 注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)  
+　　　　　[Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 # 8.计算机视觉
 前置知识：现代卷积神经网络、注意力机制  
 
@@ -68,7 +69,7 @@
 # 9.视觉大模型
 前置知识：计算机视觉  
 
-主要内容：Segment Anything、Recognize Anything、Track Anything、
+主要内容：Segment Anything、Recognize Anything、Track Anything  
 
 推荐资料：[【持续更新】Segment Anything Model （SAM）分割一切大模型相关论文和项目介绍
 ](https://blog.csdn.net/qq_36104364/article/details/133101952)  
