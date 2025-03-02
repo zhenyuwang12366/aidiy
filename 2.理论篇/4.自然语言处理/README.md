@@ -47,7 +47,8 @@
 
 推荐资料：[注意力机制](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention)  
 　　　　　[Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer)  
-　　　　　[10. 注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)
+　　　　　[10. 注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)  
+　　　　　[Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 # 7.自然语言处理
 前置知识：卷积神经网络、注意力机制  
 
@@ -57,4 +58,11 @@
 　　　　　[一起入门语言模型(Language Models)](https://zhuanlan.zhihu.com/p/32292060)  
 　　　　　[自然语言处理](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.%20NLP)  
 　　　　　[14. 自然语言处理：预训练](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/index.html)
-# 8.大模型开发
+# 8.语言大模型（一）
+前置知识：自然语言处理  
+
+主要内容：
+# 9.大模型应用开发
+前置知识：*语言大模型*、*强化学习*  
+
+主要内容：embeddings、向量数据库、RAG、Function Calling、跨模型协作、智能体、Fine-tuning、大模型优化
