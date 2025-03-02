@@ -62,7 +62,7 @@
 主要内容：RGB颜色空间、*其他颜色空间*、*计算机图形学*  
 
 推荐资料：[图像处理术语解释：灰度、色相、饱和度、亮度、明度、阿尔法通道、HSL、HSV、RGBA、ARGB和PRGBA以及Premultiplied Alpha（Alpha预乘）等基础概念详解 - 老猿Python - 博客园](https://www.cnblogs.com/LaoYuanPython/p/13643486.html)  
-　　　　　[计算机图形学笔记GAMES101系列（已完结）_Magic__Conch的博客-CSDN博客](https://blog.csdn.net/weixin_43399489/category_11410829.html)
+　　　　　*[计算机图形学笔记GAMES101系列（已完结）_Magic__Conch的博客-CSDN博客](https://blog.csdn.net/weixin_43399489/category_11410829.html)*
 # 9.计算机视觉
 前置知识：现代卷积神经网络、注意力机制  
 
