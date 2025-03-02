@@ -56,7 +56,14 @@
 　　　　　[Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer)  
 　　　　　[10. 注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html)  
 　　　　　[Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
-# 8.计算机视觉
+# 8.计算机图形学
+前置知识：*线性代数*  
+
+主要内容：RGB颜色空间、*其他颜色空间*、*计算机图形学*  
+
+推荐资料：[图像处理术语解释：灰度、色相、饱和度、亮度、明度、阿尔法通道、HSL、HSV、RGBA、ARGB和PRGBA以及Premultiplied Alpha（Alpha预乘）等基础概念详解 - 老猿Python - 博客园](https://www.cnblogs.com/LaoYuanPython/p/13643486.html)  
+　　　　　[计算机图形学笔记GAMES101系列（已完结）_Magic__Conch的博客-CSDN博客](https://blog.csdn.net/weixin_43399489/category_11410829.html)
+# 9.计算机视觉
 前置知识：现代卷积神经网络、注意力机制  
 
 主要内容：图像识别、图像定位、图像分割、图像增广、微调、目标检测、边界框、锚框、多尺度目标检测、SSD、R-CNN、Fast R-CNN、Faster RCNN、语义分割、转置卷积、全卷积网络、风格迁移、YOLO、ViT 
@@ -66,7 +73,7 @@
 　　　　　[YOLO 详解：从 v1 到 v11](https://zhuanlan.zhihu.com/p/13491328897)  
 　　　　　[【深度学习】详解 Vision Transformer (ViT)](https://blog.csdn.net/qq_39478403/article/details/118704747)  
 　　　　　[YOLOv12论文最新解析：强势来袭，超越YOLO11，以注意力为中心的实时对象检测器，YOLOv12: Attention-Centric Real-Time Object Detectors](https://zhuanlan.zhihu.com/p/24876772668)
-# 9.视觉大模型
+# 10.视觉大模型
 前置知识：计算机视觉  
 
 主要内容：Segment Anything、Recognize Anything、Track Anything  
