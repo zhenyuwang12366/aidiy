@@ -81,9 +81,9 @@
 　　　　　[论文笔记Claude 3.5 Haiku和升级版Claude 3.5Sonnet模型](https://zhuanlan.zhihu.com/p/3736787290)  
 　　　　　[通义千问论文阅读](https://zhuanlan.zhihu.com/p/652625777)  
 　　　　　[通义千问(Qwen)2大模型技术报告全文翻译解读](https://blog.csdn.net/sinat_37574187/article/details/142636872#:~:text=%E6%9C%AC%E6%8A%A5%E5%91%8A%E4%BB%8B%E7%BB%8D%E4%BA%86%20Qwen2%20%E7%B3%BB%E5%88%97%EF%BC%8C%E8%BF%99%E6%98%AF%E5%A4%A7%E5%9E%8B%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%20%E5%92%8C%E5%A4%A7%E5%9E%8B%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9C%80%E6%96%B0%E6%88%90%E5%91%98%E3%80%82%20%E6%96%87%E6%9C%AC%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%A5%97%E5%85%A8%E9%9D%A2%E7%9A%84%E5%9F%BA%E7%A1%80%E5%92%8C%E6%8C%87%E4%BB%A4%E8%B0%83%E4%BC%98%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%8F%82%E6%95%B0%E8%8C%83%E5%9B%B4%E4%BB%8E%200.5%20%E5%88%B0,%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B%E3%80%82%20Qwen2%20%E8%B6%85%E8%B6%8A%E4%BA%86%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BB%A5%E5%89%8D%E7%9A%84%20%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%85%B6%E5%89%8D%E8%BA%AB%20Qwen1.5%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AF%AD%E8%A8%80%E7%90%86%E8%A7%A3%E3%80%81%E7%94%9F%E6%88%90%E3%80%81%E5%A4%9A%E8%AF%AD%E8%A8%80%E8%83%BD%E5%8A%9B%E3%80%81%E7%BC%96%E7%A0%81%E3%80%81%E6%95%B0%E5%AD%A6%E5%92%8C%E6%8E%A8%E7%90%86%E7%AD%89%E5%A4%9A%E4%B8%AA%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%20%E4%B8%AD%E5%B1%95%E7%8E%B0%E5%87%BA%E4%B8%8E%E4%B8%93%E6%9C%89%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%AA%B2%E7%BE%8E%E7%9A%84%20%E6%80%A7%E8%83%BD%E3%80%82)  
-　　　　[Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)  
-　　　　[【论文解读】Kimi-k1.5：无需复杂搜索，Long Context + RL就能实现复杂推理](https://zhuanlan.zhihu.com/p/19612718816)  
-　　　　[腾讯混元大模型核心论文曝光：Scaling law、MoE、合成数据以及更多](https://zhuanlan.zhihu.com/p/20003000733)
+　　　　　[Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/pdf/2312.11805)  
+　　　　　[【论文解读】Kimi-k1.5：无需复杂搜索，Long Context + RL就能实现复杂推理](https://zhuanlan.zhihu.com/p/19612718816)  
+　　　　　[腾讯混元大模型核心论文曝光：Scaling law、MoE、合成数据以及更多](https://zhuanlan.zhihu.com/p/20003000733)
 # 11.大模型研究
 前置知识：ChatGPT、*DeepSeek*  
 
