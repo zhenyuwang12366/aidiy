@@ -84,7 +84,7 @@
 # 11.多模态大模型
 前置知识：ChatGPT、*计算机视觉*  
 
-推荐资料：[一文看完多模态：从视觉表征到多模态大模型](https://zhuanlan.zhihu.com/p/684472814)  
+推荐资料：*[一文看完多模态：从视觉表征到多模态大模型](https://zhuanlan.zhihu.com/p/684472814)*  
 　　　　　[论文分享|MLLMs中多种模态(图像/视频/音频/语音)的tokenizer梳理](https://blog.csdn.net/weixin_45783724/article/details/141170597)  
 　　　　　[GPT-4论文](https://arxiv.org/pdf/2303.08774)  
 # *12.大模型应用开发*
