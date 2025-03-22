@@ -25,4 +25,16 @@
 
 推荐资料：[OpenCV最详细入门（一）-python（代码全部可以直接运行）](https://blog.csdn.net/WUHU648/article/details/118491096)  
 　　　　　[OpenCV最详细入门（二）-python（代码全部可以直接运行）](https://blog.csdn.net/WUHU648/article/details/118580542)
-# 5.
+
+# 5.*Scikit-Image*
+前置知识：Numpy、计算机图形学  
+
+主要内容：io子模块、color子模块、data子模块、filters子模块、draw子模块、transform子模块exposure子模块、feature子模块、graph子模块、measure子模块、morphology子模块、novice子模块、restoration子模块、segmentation子模块、util子模块、viewer子模块
+# 6.*Pillow*
+前置知识：Numpy、计算机图形学  
+
+主要内容：使用Image.open()创建图像示例、读写图像、剪贴图像、粘贴图像、合并图像、几何变换、颜色变换、图像增强、高级增强、动态图像、Postscript打印、配置加载器draft、构建图像、图像处理、Image对象方法、ImageDraw模块
+
+推荐资料：[Python 图像处理 Pillow 库 基础篇](https://zhuanlan.zhihu.com/p/58671158)  
+　　　　　[Python Pillow 库 Image 模块 构建图像 、 图像处理 与 Image对象方法](https://zhuanlan.zhihu.com/p/58926599)  
+　　　　　
