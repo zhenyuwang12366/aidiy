@@ -10,7 +10,7 @@
 # 2.Python基础语法
 前置知识：Anaconda的基本使用
 
-主要内容：VSCode的安装/Pycharm专业版的安装与*破解*（二选一）、注释、数据类型、运算符、条件语句、循环语句、字符串、列表，元组、字典、函数、文件操作、模块、异常、面向对象
+主要内容：VSCode的安装/Pycharm专业版的安装与*破解*（二选一）、注释、数据类型、运算符、条件语句、循环语句、字符串、列表，元组、字典、函数、文件操作、模块、异常、面向对象、random库、os库、*json库*、*shutil库*
 
 推荐资料：[Python 基础教程](https://www.runoob.com/python/python-object.html)（教程）  
 　　　　　[（2021最新菜鸟教程）从计算机构成开始讲的Python基础语法，我家楼下保安都学会了！（附带课件源码）](https://www.bilibili.com/video/BV1Y64y1r7Pu/?spm_id_from=333.999.0.0)（网课）  
