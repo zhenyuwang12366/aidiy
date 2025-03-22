@@ -40,4 +40,8 @@
 推荐资料：[15分钟入门Gensim](https://zhuanlan.zhihu.com/p/37175253)  
 　　　　　[Gensim官方文档](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
 
-## 2.3
+## 2.3 其他自然语言处理库
+主要内容：spaCy、NLTK、TextBlob、PyNLPI、Stanford CoreNLP Python、Polyglot
+
+---
+# 3.大语言模型开发库
