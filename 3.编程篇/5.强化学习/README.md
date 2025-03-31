@@ -24,3 +24,30 @@
 
 ---
 # 2.强化学习框架
+## *2.1 Gym/Gymnasium*
+前置知识：Python、2.理论篇-强化学习  
+
+主要内容：Basic Usage、Training an Agent、Create a Custom Environment、Recording Agents Speeding Up Training Compatibility with Gym、Migration Guide-v0.21 to v1.0.0、Env类、Make and register、Spaces类、Wrappers子库、Vectorize、Utility functions、Classic Control、Box2D、Toy Text	、MuJoCo、Atari、External Environments  
+
+推荐资料：[Gymnasium](https://gymnasium.farama.org/introduction/basic_usage/)
+
+## *2.2 算法开源框架*
+前置知识：Python、2.理论篇-强化学习  
+
+主要内容：baselines、stable-baselines3、spinningup、dopamine、rlpyt、PARL、CleanRL、ElegantRL、Deep Reinforcement Learning Algorithms with PyTorch、Tianshou、rainbow-is-all-you-need、PureJaxRL、OpenRL  
+
+推荐资料：[强化学习相关框架整理（包含分布式多智能体）](https://blog.csdn.net/weixin_51775090/article/details/135745009)
+
+## *2.3 多智能体/分布式开源框架*
+前置知识：Python、2.理论篇-强化学习  
+
+主要内容：Acme、rl_games、RLLib、Mava、Seed-rl  
+
+推荐资料：[强化学习相关框架整理（包含分布式多智能体）](https://blog.csdn.net/weixin_51775090/article/details/135745009)
+
+## *2.4 环境开源框架*
+前置知识：Python、2.理论篇-强化学习  
+
+主要内容：IsaacGym、EnvPool、Gymnax、Brax、Jumanji、OpenSpiel  
+
+推荐资料：[强化学习相关框架整理（包含分布式多智能体）](https://blog.csdn.net/weixin_51775090/article/details/135745009)
