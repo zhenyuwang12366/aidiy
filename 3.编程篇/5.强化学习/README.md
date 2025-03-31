@@ -29,7 +29,7 @@
 
 主要内容：Basic Usage、Training an Agent、Create a Custom Environment、Recording Agents Speeding Up Training Compatibility with Gym、Migration Guide-v0.21 to v1.0.0、Env类、Make and register、Spaces类、Wrappers子库、Vectorize、Utility functions、Classic Control、Box2D、Toy Text	、MuJoCo、Atari、External Environments  
 
-推荐资料：[Gymnasium](https://gymnasium.farama.org/introduction/basic_usage/)
+推荐资料：[Gymnasium官方文档](https://gymnasium.farama.org/introduction/basic_usage/)
 
 ## *2.2 算法开源框架*
 前置知识：Python、2.理论篇-强化学习  
