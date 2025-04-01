@@ -12,7 +12,7 @@
 
 主要内容：折线图、散点图、条形图、直方图、箱形图、sns.lmplot()、sns.displot()、sns.jointplot()、sns.pairplot()、sns.pairplot()、sns.heatmap()、
 
-# 5.Pandas
+# 3.Pandas
 前置知识：NumPy、*应用篇-1.基础知识-6.JSON*
 
 主要内容：Pandas的安装、Series、DataFrame、用Pandas处理CSV文件、*用Pandas处理JSON文件*、Pandas常用函数、Pandas相关性分析
