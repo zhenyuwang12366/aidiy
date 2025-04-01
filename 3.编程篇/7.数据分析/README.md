@@ -20,3 +20,12 @@
 推荐资料：[Pandas 教程](https://www.runoob.com/pandas/pandas-correlations.html)(教程)  
 　　　　　[【python教程】数据分析——numpy、pandas、matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.999.0.0&vd_source=8f7be58fae99de36e73582d589f00ca1)（网课）  
 　　　　　[从python开始的ai学习-python基础与数据科学入门](https://github.com/Discrete-Mathematics/ai-self-learning/tree/main/%E4%BB%8Epython%E5%BC%80%E5%A7%8B%E7%9A%84ai%E5%AD%A6%E4%B9%A0/python%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8) （教程）
+
+# 4.SciPy
+前置知识：NumPy  
+
+主要内容：SciPy常用模块、SciPy优化器、SciPy稀疏矩阵、SciPy图结构、SciPy空间数据、SciPy插值、Scipy显著性检验  
+
+推荐资料：[SciPy 教程](https://www.runoob.com/scipy/scipy-tutorial.html)
+
+# 5.
