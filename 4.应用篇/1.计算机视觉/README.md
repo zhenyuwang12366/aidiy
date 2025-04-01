@@ -81,7 +81,3 @@
 前置知识:视觉Tranformer  
 
 源码：[track anything](https://github.com/gaomingqi/track-anything)
-# 19.CogAgent
-前置知识：segment anything、recognize anything、track anything中任意一个  
-
-源码：[CogVLM](https://github.com/THUDM/CogVLM)
