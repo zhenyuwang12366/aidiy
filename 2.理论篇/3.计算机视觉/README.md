@@ -11,9 +11,10 @@
 # 2.卷积神经网络
 前置知识：神经网络  
 
-主要内容：输入层、卷积计算层、激励层、池化层、全连接层、LeNet  
+主要内容：输入层、卷积计算层、激励层、池化层、全连接层  
 
 推荐资料：[卷积神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/11.%20CNN)  
+　　　　　[YJango的卷积神经网络——介绍](https://zhuanlan.zhihu.com/p/27642620)  
 　　　　　[零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/476663)  
 　　　　　[6. 卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/index.html)
 # 3.现代卷积神经网络
@@ -29,6 +30,7 @@
 主要内容：循环神经网络、双向循环神经网络、深度循环神经网络、BPTT算法  
 
 推荐资料：[循环神经网络](https://github.com/NLP-LOVE/ML-NLP/tree/master/Deep%20Learning/12.%20RNN#2-%E5%85%B6%E5%AE%83%E7%B1%BB%E5%9E%8B%E7%9A%84rnn)  
+　　　　　[YJango的循环神经网络——介绍](https://zhuanlan.zhihu.com/p/24720659)  
 　　　　　[零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)  
 　　　　　[8. 循环神经网络](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html)
 # 5.现代循环神经网络
